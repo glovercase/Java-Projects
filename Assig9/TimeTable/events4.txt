@@ -1,0 +1,48 @@
+0 9
+ENGR 101
+HU 232
+0 10
+COMP102
+SU MT
+0 12
+Hang out mike
+Hunter 
+1 9
+ENGR 101
+HU 232
+1 10
+COMP102
+SU MT
+1 12
+STAT 193
+KK 303
+1 14
+Wall st
+cat
+2 12
+STAT 193
+KK 303
+2 15
+Wall st
+cat
+3 9
+ENGR 101
+HU 232
+3 15
+Wall st
+cat
+4 9
+ENGR 101
+HU 232
+4 10
+COMP102
+SU MT
+4 12
+STAT 193
+KK 303
+5 14
+Tennis
+Kelburn Courts
+6 9
+Shop at Market
+Harbourside

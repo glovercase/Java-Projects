@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=dir\ lane\ x
+comment0.target=Car(java.lang.String,\ int,\ double)
+comment0.text=\n\ Make\ a\ new\ car,\ specifying\ the\ direction,\ the\ speed,\ the\ lane,\n\ and\ the\ x\ position\ in\ the\ lane\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\n\ Move\ the\ car\ according\ to\ its\ speed\ and\ direction\:\ \ erase,\ change\ position,\ redraw\n\ If\ it\ goes\ past\ the\ end\ of\ the\ road,\ move\ it\ to\ the\ other\ end.\n
+comment2.params=
+comment2.target=int\ getLane()
+comment2.text=\n\ Return\ the\ lane\ the\ car\ is\ in\n
+comment3.params=
+comment3.target=double\ getX()
+comment3.text=\n\ Return\ the\ x\ position\ of\ the\ car\n
+comment4.params=
+comment4.target=double\ getXMost()
+comment5.params=
+comment5.target=void\ draw()
+comment5.text=\n\ Draw\ the\ car.\ \ The\ roof\ portion\ should\ be\ a\ darker\ version\ of\ the\ colour\ of\ the\ body.\n
+comment6.params=
+comment6.target=void\ erase()
+comment6.text=\n\ Erase\ the\ car\ from\ its\ current\ position\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\n\ Test\ the\ cars.\ \ Makes\ three\ cars,\ one\ going\ right\ and\ two\ going\ left,\n\ then\ makes\ the\ repeatedly\ move\ for\ ever.\n\ Prints\ a\ message\ every\ time\ the\ first\ car\ is\ overlapping\ FrogGame.FROG_X\n
+numComments=8

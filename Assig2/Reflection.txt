@@ -1,0 +1,20 @@
+COMP 102 Assignment 2
+
+Questions for Reflection: 
+=========================
+
+Name:
+ID:
+
+Almost certainly, when you wrote your code, you had bugs in it which you had to fix. Some of the bugs were probably easy to identify; others probably took more time.
+
+1. Characterise the kinds of bugs you had to deal with (eg spelling, capitalisation, ...)
+
+2. What techniques for fixing the bugs were most effective for you? Can you think of better approaches that you could use next time?
+
+
+In learning about programming and Java, you will need to build up an understanding of lots of concepts. It can help to write down the differenct concepts as you learn them, and work out how they relate to each other and the concepts you learned previously. Identify the important concepts you learned this week, giving a one sentence description of each of them:
+
+
+
+

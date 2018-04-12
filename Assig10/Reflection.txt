@@ -1,0 +1,31 @@
+
+This was the last assignment for COMP102.  Think back to the beginning of the
+course and what you knew at that point, and then list some of the new skills
+and understanding that you believe that you have gained during this course.
+
+It is hard to believe how fast the tri has gone. At the start of the course I knew very little about programming and the language Java. I had seen if statements and for loops and that my only understanding of programming. I didn’t understand the idea of object orientated programming and it took me a few weeks for it to sink in. I have learnt a lot on this course. But still need help here and there. The plan over the break is to practice  often and keep learning to hopefully have a head start for next tri. Will go back through the old assignments and see if i can get all the challenges. I can confidently talk about most of the concepts that we have learnt. Bring on the EXAM!!!
+-How to:
+- call methods
+- initialise variables 
+- how to use bluej
+- for each loop
+- while loops
+- booleans
+- recursion
+- making objects
+- classes
+- printing text and graphics
+- buttons
+- listeners 
+- arrays
+- array lists 
+- 2d arrays
+- arguments
+- calling methods on methods
+- simplifying code
+- understanding this
+
+
+[For some of you who are still finding the course difficult, you could
+try doing some of the early assignments again; you may find them an awful lot
+easier the second time round, demonstrating that you have learned stuff!]

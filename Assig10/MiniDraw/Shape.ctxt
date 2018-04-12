@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=boolean\ on(double,\ double)
+comment0.text=\ Returns\ true\ if\ the\ point\ (x,\ y)\ is\ on\ top\ of\ the\ shape\n
+comment1.params=dx\ dy
+comment1.target=void\ moveBy(double,\ double)
+comment1.text=\ Changes\ the\ position\ of\ the\ shape\ by\ dx\ and\ dy.\n\ \ \ If\ it\ was\ positioned\ at\ (x,\ y),\ it\ will\ now\ be\ at\ (x+dx,\ y+dy)\n
+comment2.params=
+comment2.target=void\ redraw()
+comment2.text=\ Draws\ the\ shape\ on\ the\ graphics\ pane.\n\ \ \ \ \ \ It\ uses\ the\ drawing\ methods\ with\ the\ extra\ last\ argument\ of\ "false"\n\ \ \ \ \ \ so\ that\ the\ shape\ will\ not\ actually\ appear\ until\ the\ \n\ \ \ \ \ \ graphics\ pane\ is\ redisplayed\ later.\ This\ gives\ much\ smoother\ redrawing.\n
+comment3.params=changeWd\ changeHt
+comment3.target=void\ resize(double,\ double)
+comment3.text=\ Changes\ the\ width\ and\ height\ of\ the\ shape\ by\ the\n\ \ \ \ \ \ specified\ amounts.\n\ \ \ \ \ \ The\ amounts\ may\ be\ negative,\ which\ means\ that\ the\ shape\n\ \ \ \ \ \ should\ get\ smaller,\ at\ least\ in\ that\ direction.\n\ \ \ \ \ \ The\ shape\ should\ never\ become\ smaller\ than\ 1\ pixel\ in\ width\ or\ height\n\ \ \ \ \ \ The\ center\ of\ the\ shape\ should\ remain\ the\ same.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ Returns\ a\ string\ description\ of\ the\ shape\ in\ a\ form\ suitable\ for\n\ \ \ \ \ \ writing\ to\ a\ file\ in\ order\ to\ reconstruct\ the\ shape\ later\n
+numComments=5

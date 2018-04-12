@@ -1,0 +1,36 @@
+COMP 102  Assignment 8
+Name:Casey Glover
+ID: 300280613
+
+Questions for Reflection: 
+=========================
+
+
+1. Explain why "off-by-one" errors are so easy to make when programming with
+arrays.
+
+With loops i think the human brain forgets about the index starting at zero. also using the different signs < > or <= >= can effect when the loop finishes. So if you forget the the loop starts at zero rather than one a off by one error will occur
+
+2. Both BalloonGame and Genealogy used another class that was written for you.
+This saved you writing some code, but it also constrained you to write the
+program in a particular way.  Discuss the advantages and disadvantages you
+found when having a predefined class that you had to use as part of your
+program.
+
+The advantage is that is makes the programming set up and easier to build the game and so we can focus on the arrays and loops required. I wouldn’t say there was a disadvantage because we are still able to make our own methods if wanted. For the assignment required it having the pre written methods came in handy and i utilised them instead of doubling up and making messy code.
+
+
+3. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last assignment, fixing up any of the descriptions if you have
+a better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them. 
+
+I have a better understanding of for loops and i am getting confident making arrays and array-lists. With the array lists I forget about some of the methods that are available. 
+I like using the for each the most.
+I am comfortable scanning a file and using a while loop to check it. 
+I learnt about recursion calling the method within the method - for ancestors and decendants. 
+I learnt how to use do while loops - to check if the disks overlapped
+It would have been nice to have gotten the keys working but my mac wasn’t up for it.
+I used a boolean to jump out of the second loop to stop the gun firing. 
+I am getting used to making more methods and calling them to make the code cleaner.

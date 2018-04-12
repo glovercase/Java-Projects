@@ -1,0 +1,15 @@
+14
+548 70 green
+147 66 green
+426 303 yellow
+97 311 blue
+367 107 green
+230 221 green
+311 392 blue
+38 170 green
+263 59 yellow
+28 21 blue
+572 242 green
+723 48 yellow
+456 19 yellow
+669 380 blue

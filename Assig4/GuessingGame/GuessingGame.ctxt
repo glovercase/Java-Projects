@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ playRound()
+comment0.text=\ CORE\n\ Plays\ one\ round\ of\ the\ one-number\ version\ of\ the\ guessing\ game\n\ Computer\ randomly\ chooses\ an\ integer\ between\ 1\ and\ maxValue\ (40)\n\ Draws\ a\ horizontal\ line\ in\ the\ graphics\ pane\ labeled\ with\ 1\ at\ one\ end\n\ \ and\ maxValue\ at\ the\ other\ end.\n\ Player\ is\ offered\ up\ to\ maxGuesses\ chances\ to\ guess\ this\ number\n\ \ \ \ Whenever\ they\ guess\ outside\ the\ range\ 1\ to\ maxValue,\ it\ asks\ them\ to\ try\ again\n\ \ \ \ Displays\ their\ guess\ on\ the\ line\ by\ drawing\ a\ bar\ at\ the\ appropriate\ place\n\ \ \ \ \ and\ putting\ the\ number\ above\ it.\n\ \ \ \ Tells\ Player\ if\ their\ guess\ is\ higher\ or\ lower\ than\ the\ answer\n\ \ \ \ Tells\ the\ player\ when\ they\ have\ guessed\ correctly\ and\ stops\ if\ they\ win\n\ Returns\ true\ if\ the\ player\ guessed\ correctly,\ else\ returns\ false.\n
+comment1.params=data
+comment1.target=void\ modifyArray(int[])
+comment2.params=
+comment2.target=void\ playGame()
+comment2.text=\ CORE\n\ Plays\ the\ guessing\ game.\n\ Prints\ an\ introduction,\ then\n\ repeatedly\ calls\ playRound\ to\ play\ a\ single\ round\ of\ the\ game,\n\ keeping\ track\ of\ the\ score.\n\ After\ each\ round,\ it\ asks\ if\ they\ want\ to\ play\ again.\n\ When\ finished\ it\ prints\ the\ score\ (how\ many\ times\ they\ guessed\n\ correctly\ and\ how\ many\ rounds\ they\ tried).\n
+comment3.params=
+comment3.target=void\ displayBar()
+comment3.text=\n\ Displays\ the\ bar.\n\ Clears\ the\ graphics\ pane\ then\ draws\ line\ labeled\ with\ 1\ and\ maxValue\ at\ the\ ends\n
+comment4.params=guess\ col
+comment4.target=void\ displayGuess(int,\ java.awt.Color)
+comment4.text=\n\ Displays\ a\ guess\ on\ the\ bar,\ using\ the\ specified\ color.\n\ Clears\ the\ graphics\ pane\ then\ draws\ line\ labeled\ with\ 1\ and\ maxValue\ at\ the\ ends\n
+comment5.params=
+comment5.target=int\ playRoundCompletion()
+comment5.text=\ playRound\:\ COMPLETION\n\ Computer\ randomly\ chooses\ two\ different\ numbers\ between\ 1\ and\ maxValue\n\ Draws\ a\ horizontal\ line\ in\ the\ graphics\ pane\ labeled\ with\ 1\ at\ one\ end\n\ \ and\ maxValue\ at\ the\ other\ end.\n\ User\ is\ offered\ up\ to\ maxGuesses\ chances\ to\ guess\ these\ two\ numbers\ \n\ \ Whenever\ they\ guess\ outside\ the\ range\ 1\ to\ maxValue,\ it\ asks\ them\ to\ try\ again\n\ \ Displays\ their\ guess\ on\ the\ line\ by\ drawing\ a\ bar\ at\ the\ appropriate\ place\n\ \ After\ each\ guess,\ it\ tells\ the\ user\ whether\ \ their\ guess\ is\:\n\ \ -\ correct,\n\ \ -\ higher\ than\ both\ numbers,\n\ \ -\ lower\ than\ both\ numbers,\ or\n\ \ -\ between\ the\ two\ numbers.\n\ Stops\ when\ they\ have\ used\ up\ all\ their\ guesses,\ or\ have\ guessed\ both\ numbers\ correctly\n\ It\ returns\ a\ score\ which\ is\n\ \ -1,\ if\ they\ guessed\ neither\ number,\n\ \ 0,\ if\ they\ guessed\ just\ one\ number\n\ \ 1\ plus\ the\ number\ of\ remaining\ guesses\ that\ they\ didn't\n\ \ \ \ use,\ if\ they\ guessed\ both\ numbers\n
+comment6.params=
+comment6.target=void\ playGameCompletion()
+comment6.text=\ playGame\:\ \ COMPLETION\ \ \n\ Plays\ a\ better\ version\ of\ the\ guessing\ game.\n\ Prints\ an\ introduction,\ then\n\ repeatedly\ calls\ playRound\ to\ play\ a\ single\ round\ of\ the\ game,\n\ keeping\ track\ of\ the\ score.\n\ After\ each\ round,\ it\ asks\ if\ they\ want\ to\ play\ again.\n\ When\ finished\ it\ prints\ the\ score\ and\ how\ many\ rounds\ they\ went\ through\n
+comment7.params=arguments
+comment7.target=void\ main(java.lang.String[])
+numComments=8

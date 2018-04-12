@@ -1,0 +1,19 @@
+COMP 102  Assignment 3
+Name:
+ID:
+
+
+Questions for Reflection: 
+=========================
+
+1. In the MethodParameters exercise, how did you go about deciding what
+parameters the new method should have?  Can you suggest a good procedure for
+doing this?
+
+
+2.  What are the additional concepts about programming and about Java that you
+have learned this week?  
+ - Copy the concepts you listed in last week's reflection, and fix the
+   descriptions up if you have a better understanding of them now
+ - Add the new concepts you have acquired this week, along with one sentence
+   descriptions of them.

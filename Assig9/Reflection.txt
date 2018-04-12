@@ -1,0 +1,23 @@
+
+1. Some of the methods in the ImageProcessor program could be done in two
+different ways: "in-place" (only using the array containing the image), or
+using a temporary array to store the image as it was being processed. Discuss
+the advantages and disadvantages of the two approaches. 
+The “in-place” approach required conditional statements to change the image. You had to be carful that you didn’t go outside the zone otherwise the program would crash or alter the image.I downs these easier to work with as using a temp array got confusing at times but i got there in the end. The challenges where very hard I look forward to seeing how they are done. Only one assignment left looking forward to it!
+With making a temp array it made it easier to adjust. although you had to be careful with null pointer exceptions (which came up more than once). With using a temp array it was easier to change the position of the output then equalling the image field to the temp array.
+
+2. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last assignment, fixing up any of the descriptions if you have
+a better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them.
+
+This week we learnt about 2d arrays, It has taken a long time to use them properly and I still need more practice. I generally started off with two much code for most of my methods then realised it didn’t need to be so complex. For example i had had an extra double for loop thinking i had to loop through the temp arrays.
+I have a better understanding of for loops and i am getting confident making arrays and array-lists. With the array lists I forget about some of the methods that are available. 
+I like using the for each the most.
+I am comfortable scanning a file and using a while loop to check it. 
+I learnt about recursion calling the method within the method - for ancestors and decendants. 
+I learnt how to use do while loops - to check if the disks overlapped
+It would have been nice to have gotten the keys working but my mac wasn’t up for it.
+I used a boolean to jump out of the second loop to stop the gun firing. 
+I am getting used to making more methods and calling them to make the code cleaner.

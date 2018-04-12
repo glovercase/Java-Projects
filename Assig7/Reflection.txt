@@ -1,0 +1,23 @@
+COMP 102;  Assignment 7
+Name:Casey Glover
+ID:300280613
+
+Questions for Reflection: 
+=========================
+
+
+1. Explain why arrays and ArrayLists are better than using lots of variables when your program needs to store lots of values.
+Well making lots of variables is a lot of work and makes the program full of code that isn’t needed. having array’s simplifies the code and makes it look and run smoother. 
+
+2. Arrays and ArrayLists allow you to write programs with collections of data, but so do
+files. What are the similarities and differences between files and
+arrays/ArrayLists.  What can you do with one that is hard or impossible with the other?
+With and array or array list you can call on a specific index where with a file you have to loop through the file from the start. 
+
+3. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last assignment, fixing up any of the descriptions if you have a
+better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them. 
+I learnt about array’s and array lists,  scanning a file and putting it into an array to use the information. Looping through an array list or array and using the the information to present the data to the UI. i.e. dominio game / plotter
+

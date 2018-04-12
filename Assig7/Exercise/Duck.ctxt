@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Duck(double)
+comment0.text=\n\ Constructor\ requires\ the\ coordinates\ (x,\ y)\ of\ where\ it\ should\ be\ placed\n
+comment1.params=
+comment1.target=void\ shuffle()
+comment1.text=\n\ Makes\ the\ Duck\ shuffle\ to\ the\ left,\ unless\ it\ has\ already\ been\ shot\n
+comment2.params=
+comment2.target=void\ shoot()
+comment2.text=\n\ shoots\ the\ Duck,\ unless\ it\ has\ already\ been\ shot\n
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=
+comment4.target=void\ erase()
+numComments=5

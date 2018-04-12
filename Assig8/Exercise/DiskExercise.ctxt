@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DiskExercise()
+comment0.text=\ \n\ \ Make\ the\ DiskExercise\ object\ listen\ to\ the\ mouse\n\ \ and\ add\ a\ "New\ Disks"\ button\n
+comment1.params=
+comment1.target=void\ restart()
+comment1.text=\n\ Clear\ graphics\ pane,\n\ create\ two\ new\ Disks\ in\ the\ disks\ array,\n\ draw\ the\ disks.\n
+comment2.params=action\ x\ y
+comment2.target=void\ mousePerformed(java.lang.String,\ double,\ double)
+comment2.text=\n\ When\ \ the\ user\ releases\ the\ mouse\n\ \ \ Find\ out\ if\ it\ is\ on\ a\ disk,\n\ \ \ \ \ if\ so,\ damage\ the\ disk\n\ \ \ \ \ \ \ if\ the\ disk\ is\ now\ broken\n\ \ \ \ \ \ \ \ \ explode\ it,\n\ \ \ \ \ \ \ \ \ if\ the\ other\ disk\ is\ within\ range\n\ \ \ \ \ \ \ \ \ \ \ damage\ it\ also.\n\ \ \ Clear\ the\ graphics\ and\ redraw\ both\ disks,\n\ \ \ This\ can\ be\ inside\ the\ mousePerformed\ method,\ or\ it\ could\ call\ another\ method.\n\ \ \ [note,\ if\ the\ current\ disk\ is\ disks[i],\ then\ the\ "other"\ disk\ is\ disks[1-i]\ \ \ \ ]\n
+comment3.params=button
+comment3.target=void\ buttonPerformed(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

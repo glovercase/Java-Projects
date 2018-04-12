@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PersonExercise()
+comment0.text=\n\ Add\ Buttons\ to\ the\ UI\n
+comment1.params=button
+comment1.target=void\ buttonPerformed(java.lang.String)
+comment2.params=
+comment2.target=void\ load()
+comment2.text=\n\ Read\ each\ line\ of\ the\ file,\ (id,\ name,\ dob,\ motherID,\ fatherID)\n\ \ constructing\ a\ Person\ object\ for\ the\ line\n\ \ and\ putting\ it\ in\ the\ ArrayList\n\ Close\ the\ file\ and\ print\ "Loaded"\ when\ finished.\n\ Note\:\ the\ Person\ class\ has\ three\ constructors;\ you\ can\ choose\ to\ use\ either\ one.\n
+comment3.params=
+comment3.target=void\ allNames()
+comment3.text=\n\ Print\ out\ the\ name,\ gender,\ and\ year\ of\ birth\ of\ each\ person\ in\ the\ array.\n\ Note,\ the\ Person\ class\ has\ a\ toString\ method\ that\ is\ useful.\n
+comment4.params=name
+comment4.target=void\ findMotherOf(java.lang.String)
+comment4.text=\n\ Steps\ through\ the\ list\ to\ find\ a\ person\ with\ the\ specified\ name\n\ Then\ prints\ out\ that\ person's\ mother,\ if\ known\n\ otherwise\ print\ out\ "Mother\ unknown"\n
+comment5.params=name
+comment5.target=void\ findChildrenOfFather(java.lang.String)
+comment5.text=\n\ Steps\ through\ the\ list\ to\ find\ each\ person\ whose\ father\ is\ the\ specified\ name\n\ Prints\ out\ the\ name\ of\ each\ such\ person\n\ Note,\ for\ each\ person\ in\ the\ array,\ you\ need\ to\ get\ their\ father's\ id,\ and\ if\n\ it\ isn't\ -1,\ look\ up\ that\ id\ and\ see\ if\ their\ name\ is\ the\ specified\ one.\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

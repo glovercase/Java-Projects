@@ -1,0 +1,3882 @@
+----------------
+Landen(M), born:1925
+--f : Tyshawn(M), born:1897
+----------------
+Armani(M), born:1901
+--m : Emma(F), born:1863
+----------------
+Jorge(M), born:1923
+--m : Riya(F), born:1901
+--f : Oliver(M), born:1904
+----------------
+Mariah(F), born:1882
+--m : Lizbeth(F), born:1860
+----------------
+Devyn(M), born:1914
+--m : Justice(F), born:1891
+--m--m : Reyna(F), born:1867
+--m--m--f : Simon(M), born:1851
+--m--f : Bruce(M), born:1867
+--f : Brian(M), born:1889
+----------------
+Coleman(M), born:1853
+--m : Olivia(F), born:1821
+----------------
+Braxton(M), born:1912
+--f : Ahmad(M), born:1880
+----------------
+Desmond(M), born:1897
+--m : Celeste(F), born:1869
+--m--m : Shawna(F), born:1851
+--m--f : Denzel(M), born:1849
+--f : Colby(M), born:1869
+----------------
+Tiara(F), born:1896
+--m : Monique(F), born:1863
+--m--f : Adam(M), born:1837
+--f : Brenton(M), born:1866
+--f--m : Janet(F), born:1845
+----------------
+Jordan(M), born:1926
+--m : Skyla(F), born:1901
+--f : Kody(M), born:1896
+--f--f : Anton(M), born:1875
+----------------
+Abagail(F), born:1898
+--m : Candice(F), born:1862
+----------------
+Aracely(F), born:1953
+--m : Julia(F), born:1931
+--m--m : Rebecca(F), born:1904
+----------------
+Brielle(F), born:1916
+--m : Sabrina(F), born:1899
+--m--m : Anjali(F), born:1874
+--m--f : Keaton(M), born:1877
+--m--f--f : Giovanny(M), born:1855
+--m--f--f--m : Miranda(F), born:1807
+--m--f--f--m--m : Marina(F), born:1781
+----------------
+Mariam(F), born:1940
+--m : Tianna(F), born:1922
+----------------
+Freddy(M), born:1845
+--m : Elle(F), born:1814
+--m--m : Paola(F), born:1790
+----------------
+Miah(F), born:1913
+--f : Dalton(M), born:1887
+--f--f : Ethen(M), born:1863
+----------------
+Deshaun(M), born:1940
+--f : Jarrett(M), born:1916
+--f--m : Ebony(F), born:1888
+--f--f : Donald(M), born:1888
+----------------
+Alyson(F), born:1947
+--m : Stephanie(F), born:1911
+--m--m : Callie(F), born:1891
+--m--m--m : Annabelle(F), born:1874
+--m--m--m--m : Aja(F), born:1851
+--m--m--m--m--m : Destiny(F), born:1830
+--m--m--m--m--f : Zakary(M), born:1829
+--m--m--m--m--f--f : Carlton(M), born:1804
+--m--m--m--m--f--f--f : Allan(M), born:1782
+--m--m--m--m--f--f--f--m : Abigale(F), born:1755
+--m--m--m--m--f--f--f--f : Agustin(M), born:1755
+--m--m--m--f : Salvador(M), born:1851
+--m--m--m--f--m : Shakira(F), born:1824
+--m--m--f : Roger(M), born:1868
+--m--m--f--f : Aiden(M), born:1847
+--m--m--f--f--m : Litzy(F), born:1819
+----------------
+Lea(F), born:1944
+--f : Lance(M), born:1914
+--f--m : Adriana(F), born:1896
+--f--m--m : Madeline(F), born:1873
+--f--m--f : Wesley(M), born:1870
+--f--f : Aidan(M), born:1897
+----------------
+Dale(M), born:1930
+--f : Arjun(M), born:1905
+----------------
+Gannon(M), born:1864
+--m : Katelin(F), born:1837
+--m--m : Rianna(F), born:1813
+--m--f : Bryson(M), born:1812
+--m--f--m : Jakayla(F), born:1787
+--m--f--f : Max(M), born:1783
+----------------
+Genevieve(F), born:1936
+--m : Mckenzie(F), born:1915
+--f : Julien(M), born:1916
+----------------
+Amani(F), born:1877
+--m : Joyce(F), born:1849
+----------------
+Cesar(M), born:1933
+--m : Arely(F), born:1911
+----------------
+Yahir(M), born:1884
+--m : Kacie(F), born:1854
+--f : Rory(M), born:1854
+----------------
+Alvaro(M), born:1911
+--f : Keven(M), born:1891
+--f--m : Kenna(F), born:1859
+--f--m--m : Angie(F), born:1832
+--f--m--m--m : Meredith(F), born:1805
+--f--m--m--m--m : Kathryn(F), born:1783
+--f--m--m--m--f : Alfred(M), born:1782
+--f--m--m--m--f--m : Janie(F), born:1762
+----------------
+Lyric(F), born:1917
+--f : Thaddeus(M), born:1888
+--f--m : Emma(F), born:1863
+----------------
+Kourtney(F), born:1919
+--m : Aaliyah(F), born:1899
+--f : Neal(M), born:1896
+--f--f : Mohamed(M), born:1871
+----------------
+Imani(F), born:1886
+--m : Kassidy(F), born:1859
+----------------
+Stephan(M), born:1908
+--m : Jimena(F), born:1888
+----------------
+Tiana(F), born:1865
+--f : Cyrus(M), born:1824
+----------------
+Paula(F), born:1881
+--m : Nataly(F), born:1858
+----------------
+Ramon(M), born:1822
+--m : Kaya(F), born:1793
+--m--f : Lamont(M), born:1766
+--f : Darion(M), born:1790
+----------------
+Larissa(F), born:1961
+--m : Carlee(F), born:1939
+----------------
+Dane(M), born:1890
+--f : Leo(M), born:1868
+--f--m : Liberty(F), born:1846
+--f--f : Milton(M), born:1845
+----------------
+Nathanael(M), born:1910
+--f : Isaak(M), born:1892
+----------------
+Danny(M), born:1935
+--m : Kayley(F), born:1910
+--f : Darien(M), born:1907
+--f--m : Jayla(F), born:1883
+--f--f : Elvin(M), born:1882
+--f--f--f : Walter(M), born:1859
+--f--f--f--m : Kaylie(F), born:1842
+--f--f--f--f : Emanuel(M), born:1838
+----------------
+Tara(F), born:1888
+--m : Charlotte(F), born:1853
+--m--m : Julianna(F), born:1832
+--m--m--f : Darrell(M), born:1813
+--m--f : Randall(M), born:1832
+--m--f--m : Ayanna(F), born:1807
+--f : Gabriel(M), born:1850
+--f--m : Amy(F), born:1826
+----------------
+Amaya(F), born:1929
+--m : Melinda(F), born:1906
+--f : Jacob(M), born:1903
+----------------
+Shawn(M), born:1846
+--f : Moses(M), born:1813
+----------------
+Rylie(F), born:1908
+--f : Jamar(M), born:1885
+----------------
+Asher(M), born:1944
+--m : Mollie(F), born:1918
+--m--m : Damaris(F), born:1898
+--m--f : Blaise(M), born:1895
+--f : Albert(M), born:1914
+----------------
+Damien(M), born:1919
+--m : Ebony(F), born:1888
+--f : Donald(M), born:1888
+----------------
+Precious(F), born:1935
+--m : Emilia(F), born:1901
+--m--m : Keila(F), born:1877
+--m--m--m : Nadia(F), born:1848
+--m--m--m--f : Dwayne(M), born:1822
+--f : Aryan(M), born:1899
+--f--f : Giovanni(M), born:1878
+--f--f--m : Abril(F), born:1855
+----------------
+Lilly(F), born:1816
+--m : Marina(F), born:1781
+----------------
+Gilberto(M), born:1815
+--m : Jakayla(F), born:1787
+--f : Max(M), born:1783
+----------------
+Declan(M), born:1892
+--f : Marc(M), born:1873
+----------------
+Armando(M), born:1890
+--f : Clifford(M), born:1860
+----------------
+Elise(F), born:1946
+--m : Abigail(F), born:1919
+--m--m : Kya(F), born:1897
+--f : Justyn(M), born:1919
+--f--m : Estefania(F), born:1883
+--f--m--m : Jordyn(F), born:1860
+--f--m--f : Nickolas(M), born:1858
+--f--f : Brayden(M), born:1888
+----------------
+Tommy(M), born:1890
+--f : Ryley(M), born:1869
+--f--m : Nikki(F), born:1846
+--f--m--m : Olivia(F), born:1821
+--f--f : Rudy(M), born:1846
+----------------
+Karson(M), born:1871
+--m : Tracy(F), born:1832
+----------------
+Elliot(M), born:1944
+--m : Abigail(F), born:1919
+--m--m : Kya(F), born:1897
+--f : Justyn(M), born:1919
+--f--m : Estefania(F), born:1883
+--f--m--m : Jordyn(F), born:1860
+--f--m--f : Nickolas(M), born:1858
+--f--f : Brayden(M), born:1888
+----------------
+Jamir(M), born:1884
+--m : Kaylah(F), born:1860
+--m--m : Juliette(F), born:1816
+--m--m--m : Perla(F), born:1794
+--m--m--m--m : Meghan(F), born:1773
+--m--m--m--f : Yadiel(M), born:1774
+--m--m--f : Griffin(M), born:1792
+--m--f : Jean(M), born:1814
+--f : Zain(M), born:1860
+--f--m : Piper(F), born:1837
+--f--f : Darren(M), born:1838
+--f--f--m : Ashlee(F), born:1809
+--f--f--f : Nicolas(M), born:1808
+----------------
+Lawrence(M), born:1875
+--f : Curtis(M), born:1849
+----------------
+Brittney(F), born:1908
+--f : Preston(M), born:1887
+--f--f : Felipe(M), born:1858
+----------------
+Turner(M), born:1883
+--f : Gael(M), born:1857
+--f--f : Sean(M), born:1832
+----------------
+Brittany(F), born:1916
+--m : Brandy(F), born:1899
+--f : Fernando(M), born:1893
+----------------
+Taylor(F), born:1852
+--f : Xavier(M), born:1820
+----------------
+Rachelle(F), born:1900
+--f : Uriel(M), born:1882
+----------------
+Gisselle(F), born:1908
+--m : Kassandra(F), born:1888
+--m--m : Barbara(F), born:1864
+--m--f : Jayce(M), born:1861
+--f : Hector(M), born:1883
+--f--f : Donavan(M), born:1862
+----------------
+Ashtyn(F), born:1785
+--m : Audrey(F), born:1743
+--f : Peter(M), born:1744
+----------------
+Cristina(F), born:1942
+--m : Clare(F), born:1921
+--f : Steven(M), born:1914
+--f--m : Britney(F), born:1883
+----------------
+Nico(M), born:1901
+--f : Anton(M), born:1875
+----------------
+Kailee(F), born:1924
+--m : Annette(F), born:1896
+--f : Shamar(M), born:1898
+--f--m : Rachael(F), born:1876
+--f--m--m : Veronica(F), born:1853
+--f--f : Axel(M), born:1882
+--f--f--m : Lizbeth(F), born:1860
+----------------
+Halie(F), born:1927
+--f : Mauricio(M), born:1890
+--f--m : Kaia(F), born:1868
+----------------
+Kristopher(M), born:1925
+--m : Callie(F), born:1891
+--m--m : Annabelle(F), born:1874
+--m--m--m : Aja(F), born:1851
+--m--m--m--m : Destiny(F), born:1830
+--m--m--m--f : Zakary(M), born:1829
+--m--m--m--f--f : Carlton(M), born:1804
+--m--m--m--f--f--f : Allan(M), born:1782
+--m--m--m--f--f--f--m : Abigale(F), born:1755
+--m--m--m--f--f--f--f : Agustin(M), born:1755
+--m--m--f : Salvador(M), born:1851
+--m--m--f--m : Shakira(F), born:1824
+--m--f : Roger(M), born:1868
+--m--f--f : Aiden(M), born:1847
+--m--f--f--m : Litzy(F), born:1819
+----------------
+Karlee(F), born:1901
+--m : Alice(F), born:1875
+--m--f : Bo(M), born:1852
+--m--f--f : Dustin(M), born:1831
+--m--f--f--m : Paola(F), born:1790
+--f : Rocco(M), born:1873
+----------------
+Ezra(M), born:1906
+--m : Melanie(F), born:1883
+--f : Triston(M), born:1886
+----------------
+Destinee(F), born:1940
+--m : Madisyn(F), born:1912
+--f : Rafael(M), born:1908
+--f--m : Jazmyn(F), born:1881
+--f--f : Alijah(M), born:1882
+----------------
+Seamus(M), born:1908
+--f : Wade(M), born:1874
+----------------
+Sarah(F), born:1957
+--m : Shayna(F), born:1939
+--f : Eric(M), born:1934
+--f--m : Chelsey(F), born:1902
+----------------
+Lisbeth(F), born:1857
+--f : Cyrus(M), born:1824
+----------------
+Magdalena(F), born:1769
+--m : Marie(F), born:1748
+----------------
+Connor(M), born:1915
+--m : Joelle(F), born:1893
+--m--m : Julianne(F), born:1874
+--m--f : Edgar(M), born:1873
+--f : Elliott(M), born:1889
+----------------
+Gaven(M), born:1930
+--m : Angelica(F), born:1904
+--m--m : Lexi(F), born:1881
+--m--f : Kylan(M), born:1875
+----------------
+Christiana(F), born:1923
+--m : Rebecca(F), born:1904
+----------------
+Yvonne(F), born:1938
+--f : Marvin(M), born:1916
+----------------
+Jeremiah(M), born:1875
+--f : Treyton(M), born:1845
+--f--m : Hannah(F), born:1816
+--f--m--m : Estefani(F), born:1796
+--f--m--m--m : Yolanda(F), born:1774
+--f--m--m--f : Jasper(M), born:1778
+--f--m--f : Kieran(M), born:1794
+----------------
+Desiree(F), born:1926
+--m : Lillian(F), born:1897
+--f : Tyrell(M), born:1903
+----------------
+Susana(F), born:1919
+--m : Frances(F), born:1889
+--m--m : Candice(F), born:1862
+--f : Oswaldo(M), born:1891
+----------------
+Margarita(F), born:1930
+--f : Mason(M), born:1897
+--f--m : Jasmyn(F), born:1878
+--f--m--m : Lizbeth(F), born:1860
+--f--f : Arthur(M), born:1880
+----------------
+Leroy(M), born:1900
+--m : Isabelle(F), born:1863
+--m--m : Elisabeth(F), born:1841
+--m--m--f : Xavier(M), born:1820
+--m--f : Rene(M), born:1842
+--m--f--f : Jovani(M), born:1821
+--m--f--f--f : Conner(M), born:1796
+----------------
+Vanesa(F), born:1866
+--m : Savanah(F), born:1802
+--f : Adrian(M), born:1803
+----------------
+Chandler(M), born:1894
+--m : Sydnie(F), born:1868
+--m--m : Katelin(F), born:1837
+--m--m--m : Rianna(F), born:1813
+--m--m--f : Bryson(M), born:1812
+--m--m--f--m : Jakayla(F), born:1787
+--m--m--f--f : Max(M), born:1783
+----------------
+Matteo(M), born:1918
+--m : Brenna(F), born:1893
+----------------
+Courtney(F), born:1917
+--m : Cora(F), born:1895
+--f : Jamari(M), born:1894
+--f--m : Jayden(F), born:1872
+----------------
+Rebekah(F), born:1910
+--m : Christy(F), born:1885
+----------------
+Aleah(F), born:1944
+--m : Mckenzie(F), born:1915
+--f : Julien(M), born:1916
+----------------
+Harlie(F), born:1906
+--m : Yazmin(F), born:1876
+----------------
+Candace(F), born:1919
+--m : Kaelyn(F), born:1898
+--m--m : Celeste(F), born:1869
+--m--m--m : Shawna(F), born:1851
+--m--m--f : Denzel(M), born:1849
+--m--f : Colby(M), born:1869
+----------------
+Corinne(F), born:1854
+--m : Astrid(F), born:1825
+--m--m : Yasmine(F), born:1804
+--m--m--f : Grant(M), born:1779
+----------------
+Alessandra(F), born:1910
+--m : Shreya(F), born:1891
+--m--m : Elsa(F), born:1867
+----------------
+Chaya(F), born:1891
+--m : Zoe(F), born:1863
+----------------
+Ty(M), born:1959
+--f : Ahmed(M), born:1930
+--f--m : Ashley(F), born:1908
+--f--m--m : Aniya(F), born:1885
+--f--m--m--m : Maryam(F), born:1864
+--f--m--m--m--f : Travon(M), born:1846
+--f--m--m--m--f--m : Loren(F), born:1821
+----------------
+Kayden(M), born:1904
+--m : Meadow(F), born:1881
+--f : Aaron(M), born:1884
+--f--m : Skye(F), born:1862
+--f--m--m : Giana(F), born:1834
+--f--m--f : Daryl(M), born:1841
+----------------
+Hallie(F), born:1865
+--f : Ross(M), born:1837
+--f--m : Aurora(F), born:1814
+--f--m--f : Alan(M), born:1794
+--f--f : Pedro(M), born:1814
+----------------
+Titus(M), born:1910
+--m : Talia(F), born:1889
+----------------
+Conor(M), born:1937
+--m : Karen(F), born:1914
+----------------
+Charles(M), born:1931
+--m : Colleen(F), born:1907
+----------------
+Alize(F), born:1898
+--m : Diana(F), born:1870
+--m--m : Aubrie(F), born:1847
+----------------
+Angeline(F), born:1867
+--m : Cecelia(F), born:1841
+--f : Cayden(M), born:1839
+----------------
+Breonna(F), born:1932
+--m : Allyson(F), born:1908
+--m--m : Nicolette(F), born:1883
+--f : Mike(M), born:1914
+----------------
+Josephine(F), born:1897
+--f : Ronan(M), born:1876
+--f--m : Alex(F), born:1843
+----------------
+Bryan(M), born:1945
+--f : Damon(M), born:1919
+--f--m : Sharon(F), born:1890
+--f--m--m : Faith(F), born:1862
+--f--m--f : Jeff(M), born:1869
+--f--f : Darius(M), born:1890
+--f--f--m : Calista(F), born:1865
+--f--f--f : Mustafa(M), born:1869
+----------------
+Allison(F), born:1848
+--m : Elle(F), born:1814
+--m--m : Paola(F), born:1790
+----------------
+Ari(M), born:1945
+--f : Ismael(M), born:1923
+----------------
+Dashawn(M), born:1923
+--m : Bryanna(F), born:1900
+--f : Andy(M), born:1899
+----------------
+Elisa(F), born:1937
+--f : Porter(M), born:1917
+--f--m : Emely(F), born:1894
+--f--m--m : Alondra(F), born:1860
+--f--m--f : Ruben(M), born:1859
+----------------
+Katerina(F), born:1881
+--f : Cason(M), born:1848
+----------------
+Jaquelin(F), born:1932
+--m : Yuliana(F), born:1901
+--f : Gustavo(M), born:1902
+----------------
+Phoenix(M), born:1946
+--f : Joshua(M), born:1925
+--f--f : Devan(M), born:1897
+----------------
+Maura(F), born:1967
+--m : Justine(F), born:1943
+--m--m : Renee(F), born:1915
+--m--m--f : Luc(M), born:1890
+----------------
+River(M), born:1911
+--m : Keila(F), born:1877
+--m--m : Nadia(F), born:1848
+--m--m--f : Dwayne(M), born:1822
+----------------
+Cara(F), born:1887
+--f : Eddy(M), born:1860
+----------------
+Autumn(F), born:1949
+--m : Sally(F), born:1926
+--m--m : Adriana(F), born:1896
+--m--m--m : Madeline(F), born:1873
+--m--m--f : Wesley(M), born:1870
+--m--f : Aidan(M), born:1897
+----------------
+Rodrigo(M), born:1906
+--m : Baby(F), born:1882
+--f : Israel(M), born:1883
+----------------
+Cristal(F), born:1928
+--m : Krystal(F), born:1898
+--m--m : Kendra(F), born:1877
+--m--m--m : Marisa(F), born:1854
+--m--m--m--m : Tracy(F), born:1832
+--m--m--f : Dillon(M), born:1852
+--m--m--f--m : Katlyn(F), born:1835
+--m--m--f--m--f : Moses(M), born:1813
+--m--f : Gilbert(M), born:1881
+----------------
+Timothy(M), born:1916
+--m : Robyn(F), born:1888
+--f : Eli(M), born:1886
+--f--m : Esmeralda(F), born:1863
+----------------
+Steve(M), born:1927
+--m : Aaliyah(F), born:1899
+--f : Neal(M), born:1896
+--f--f : Mohamed(M), born:1871
+----------------
+Trevor(M), born:1864
+--m : Melissa(F), born:1835
+----------------
+Stella(F), born:1886
+--f : Donavan(M), born:1862
+----------------
+Tyra(F), born:1923
+--m : Hope(F), born:1890
+--m--m : Jazlyn(F), born:1865
+--m--m--m : Anais(F), born:1841
+--m--m--m--m : Keira(F), born:1818
+--m--m--m--f : Daquan(M), born:1818
+--m--m--m--f--m : Kaya(F), born:1793
+--m--m--m--f--m--f : Lamont(M), born:1766
+--m--m--m--f--f : Darion(M), born:1790
+----------------
+Maxwell(M), born:1952
+--m : Marley(F), born:1926
+----------------
+Brenda(F), born:1911
+--m : Shayla(F), born:1883
+----------------
+Alisha(F), born:1841
+--m : Meredith(F), born:1805
+--m--m : Kathryn(F), born:1783
+--m--f : Alfred(M), born:1782
+--m--f--m : Janie(F), born:1762
+----------------
+Athena(F), born:1886
+--f : Clifford(M), born:1860
+----------------
+Macy(F), born:1921
+--m : Morgan(F), born:1896
+--f : Christopher(M), born:1894
+----------------
+Claire(F), born:1895
+--f : Cullen(M), born:1876
+----------------
+Aria(F), born:1883
+--m : Barbara(F), born:1864
+--f : Jayce(M), born:1861
+----------------
+Keyla(F), born:1919
+--m : Haleigh(F), born:1889
+----------------
+Sienna(F), born:1933
+--f : Marquise(M), born:1908
+----------------
+Delilah(F), born:1830
+--m : Perla(F), born:1794
+--m--m : Meghan(F), born:1773
+--m--f : Yadiel(M), born:1774
+--f : Griffin(M), born:1792
+----------------
+Geoffrey(M), born:1932
+--m : Luz(F), born:1900
+--m--m : Kendra(F), born:1877
+--m--m--m : Marisa(F), born:1854
+--m--m--m--m : Tracy(F), born:1832
+--m--m--f : Dillon(M), born:1852
+--m--m--f--m : Katlyn(F), born:1835
+--m--m--f--m--f : Moses(M), born:1813
+--m--f : Gilbert(M), born:1881
+--f : Davin(M), born:1903
+--f--m : Kayla(F), born:1880
+--f--m--f : Hassan(M), born:1841
+--f--m--f--m : Annalise(F), born:1815
+--f--f : Alvin(M), born:1874
+--f--f--m : Araceli(F), born:1857
+----------------
+Karissa(F), born:1889
+--m : Maryam(F), born:1864
+--m--f : Travon(M), born:1846
+--m--f--m : Loren(F), born:1821
+----------------
+Heather(F), born:1939
+--m : Melinda(F), born:1906
+--f : Jacob(M), born:1903
+----------------
+Quintin(M), born:1921
+--f : Jalen(M), born:1894
+----------------
+Katrina(F), born:1916
+--m : Michelle(F), born:1893
+--m--m : Vanessa(F), born:1868
+----------------
+Leanna(F), born:1903
+--m : Aileen(F), born:1881
+--f : Samir(M), born:1884
+----------------
+Isabella(F), born:1906
+--f : Terrence(M), born:1883
+--f--m : Rayna(F), born:1856
+--f--f : Marcos(M), born:1856
+----------------
+Grace(F), born:1873
+--f : Curtis(M), born:1849
+----------------
+Ashlyn(F), born:1935
+--m : Deasia(F), born:1914
+--m--f : Brendon(M), born:1887
+--m--f--m : Alejandra(F), born:1854
+--m--f--f : Joel(M), born:1854
+--m--f--f--m : Katie(F), born:1827
+----------------
+Yvette(F), born:1931
+--m : Shyanne(F), born:1907
+--m--m : Alycia(F), born:1879
+--f : Kamron(M), born:1901
+----------------
+Jenny(F), born:1917
+--f : Luc(M), born:1890
+----------------
+Elmer(M), born:1963
+--m : Justine(F), born:1943
+--m--m : Renee(F), born:1915
+--m--m--f : Luc(M), born:1890
+----------------
+Ellie(F), born:1873
+--f : Ben(M), born:1848
+----------------
+Kevin(M), born:1928
+--m : Lila(F), born:1905
+--m--m : Jaclyn(F), born:1873
+--m--m--m : Maleah(F), born:1857
+----------------
+Houston(M), born:1951
+--f : Grady(M), born:1935
+----------------
+Antwan(M), born:1905
+--f : Clark(M), born:1869
+----------------
+Dylan(M), born:1950
+--m : Annie(F), born:1927
+--m--f : Heriberto(M), born:1900
+--f : Moises(M), born:1933
+--f--m : Ashleigh(F), born:1902
+----------------
+Evan(M), born:1805
+--m : Meghan(F), born:1773
+--f : Yadiel(M), born:1774
+----------------
+Trevion(M), born:1937
+--f : Abdiel(M), born:1911
+----------------
+Rose(F), born:1928
+--m : Emilia(F), born:1901
+--m--m : Keila(F), born:1877
+--m--m--m : Nadia(F), born:1848
+--m--m--m--f : Dwayne(M), born:1822
+--f : Aryan(M), born:1899
+--f--f : Giovanni(M), born:1878
+--f--f--m : Abril(F), born:1855
+----------------
+Wilson(M), born:1926
+--m : Yuliana(F), born:1901
+--f : Gustavo(M), born:1902
+----------------
+Mckenna(F), born:1858
+--f : Carlton(M), born:1804
+--f--f : Allan(M), born:1782
+--f--f--m : Abigale(F), born:1755
+--f--f--f : Agustin(M), born:1755
+----------------
+Keagan(M), born:1930
+--m : Gabriela(F), born:1906
+--m--f : Cristian(M), born:1877
+--f : Thomas(M), born:1901
+----------------
+Maximilian(M), born:1899
+--m : Isabell(F), born:1873
+----------------
+Alisa(F), born:1910
+--f : Emmett(M), born:1890
+----------------
+Cindy(F), born:1842
+--m : Juliette(F), born:1816
+--m--m : Perla(F), born:1794
+--m--m--m : Meghan(F), born:1773
+--m--m--f : Yadiel(M), born:1774
+--m--f : Griffin(M), born:1792
+--f : Jean(M), born:1814
+----------------
+Coby(M), born:1897
+--m : Reanna(F), born:1871
+--m--m : Desirae(F), born:1847
+--f : Tristan(M), born:1873
+----------------
+Joe(M), born:1911
+--f : Keven(M), born:1891
+--f--m : Kenna(F), born:1859
+--f--m--m : Angie(F), born:1832
+--f--m--m--m : Meredith(F), born:1805
+--f--m--m--m--m : Kathryn(F), born:1783
+--f--m--m--m--f : Alfred(M), born:1782
+--f--m--m--m--f--m : Janie(F), born:1762
+----------------
+Amarion(M), born:1938
+--m : Emilia(F), born:1901
+--m--m : Keila(F), born:1877
+--m--m--m : Nadia(F), born:1848
+--m--m--m--f : Dwayne(M), born:1822
+--f : Aryan(M), born:1899
+--f--f : Giovanni(M), born:1878
+--f--f--m : Abril(F), born:1855
+----------------
+Lamar(M), born:1837
+--m : Frida(F), born:1803
+--m--m : Lisa(F), born:1776
+--m--m--f : Norman(M), born:1750
+--f : Ezekiel(M), born:1805
+----------------
+Kiersten(F), born:1936
+--m : Alexys(F), born:1908
+----------------
+Gary(M), born:1853
+--m : Angie(F), born:1832
+--m--m : Meredith(F), born:1805
+--m--m--m : Kathryn(F), born:1783
+--m--m--f : Alfred(M), born:1782
+--m--m--f--m : Janie(F), born:1762
+----------------
+Lucy(F), born:1951
+--m : Aliyah(F), born:1924
+----------------
+Cristobal(M), born:1880
+--m : Janet(F), born:1845
+----------------
+Francisco(M), born:1975
+--m : Maggie(F), born:1945
+--m--m : Kallie(F), born:1924
+--m--f : Felix(M), born:1923
+--f : Stuart(M), born:1945
+--f--f : Chase(M), born:1918
+--f--f--f : Vicente(M), born:1891
+--f--f--f--m : Isabell(F), born:1873
+----------------
+Walker(M), born:1878
+--f : Hassan(M), born:1841
+--f--m : Annalise(F), born:1815
+----------------
+Gerardo(M), born:1908
+--f : Darin(M), born:1880
+----------------
+Erika(F), born:1822
+--f : Conner(M), born:1796
+----------------
+Berenice(F), born:1783
+--f : Norman(M), born:1750
+----------------
+Brianna(F), born:1946
+--m : Jamya(F), born:1925
+--f : Keon(M), born:1919
+--f--m : Kaylyn(F), born:1885
+--f--m--m : Alma(F), born:1861
+--f--f : Cade(M), born:1885
+----------------
+Ulises(M), born:1954
+--m : Ellen(F), born:1933
+--f : Dimitri(M), born:1933
+----------------
+Xiomara(F), born:1908
+--m : Alexandria(F), born:1886
+--f : Jairo(M), born:1891
+--f--m : Destiny(F), born:1830
+--f--f : Zakary(M), born:1829
+--f--f--f : Carlton(M), born:1804
+--f--f--f--f : Allan(M), born:1782
+--f--f--f--f--m : Abigale(F), born:1755
+--f--f--f--f--f : Agustin(M), born:1755
+----------------
+Darrius(M), born:1936
+--m : Jazmyne(F), born:1913
+----------------
+Denisse(F), born:1914
+--m : Sade(F), born:1892
+--f : Malachi(M), born:1894
+----------------
+Antonia(F), born:1937
+--m : Kayley(F), born:1910
+--f : Darien(M), born:1907
+--f--m : Jayla(F), born:1883
+--f--f : Elvin(M), born:1882
+--f--f--f : Walter(M), born:1859
+--f--f--f--m : Kaylie(F), born:1842
+--f--f--f--f : Emanuel(M), born:1838
+----------------
+Journey(F), born:1913
+--m : Alexandria(F), born:1886
+--f : Jairo(M), born:1891
+--f--m : Destiny(F), born:1830
+--f--f : Zakary(M), born:1829
+--f--f--f : Carlton(M), born:1804
+--f--f--f--f : Allan(M), born:1782
+--f--f--f--f--m : Abigale(F), born:1755
+--f--f--f--f--f : Agustin(M), born:1755
+----------------
+Reina(F), born:1928
+--m : Lillian(F), born:1897
+--f : Tyrell(M), born:1903
+----------------
+Luke(M), born:1881
+--f : Ben(M), born:1848
+----------------
+Carlos(M), born:1890
+--f : Reginald(M), born:1863
+----------------
+Jarred(M), born:1856
+--f : Dwayne(M), born:1822
+----------------
+Keyshawn(M), born:1911
+--m : Aniya(F), born:1885
+--m--m : Maryam(F), born:1864
+--m--m--f : Travon(M), born:1846
+--m--m--f--m : Loren(F), born:1821
+----------------
+Deborah(F), born:1934
+--m : Luisa(F), born:1906
+----------------
+Brooklyn(F), born:1934
+--m : Kaley(F), born:1909
+--m--m : Meagan(F), born:1886
+--m--f : Kobe(M), born:1882
+----------------
+Augustus(M), born:1921
+--m : Callie(F), born:1891
+--m--m : Annabelle(F), born:1874
+--m--m--m : Aja(F), born:1851
+--m--m--m--m : Destiny(F), born:1830
+--m--m--m--f : Zakary(M), born:1829
+--m--m--m--f--f : Carlton(M), born:1804
+--m--m--m--f--f--f : Allan(M), born:1782
+--m--m--m--f--f--f--m : Abigale(F), born:1755
+--m--m--m--f--f--f--f : Agustin(M), born:1755
+--m--m--f : Salvador(M), born:1851
+--m--m--f--m : Shakira(F), born:1824
+--m--f : Roger(M), born:1868
+--m--f--f : Aiden(M), born:1847
+--m--f--f--m : Litzy(F), born:1819
+----------------
+Ciara(F), born:1883
+--f : Jordon(M), born:1855
+----------------
+Kiana(F), born:1909
+--f : Raymundo(M), born:1884
+----------------
+Isabel(F), born:1909
+--m : Shreya(F), born:1891
+--m--m : Elsa(F), born:1867
+----------------
+Karli(F), born:1956
+--f : Ahmed(M), born:1930
+--f--m : Ashley(F), born:1908
+--f--m--m : Aniya(F), born:1885
+--f--m--m--m : Maryam(F), born:1864
+--f--m--m--m--f : Travon(M), born:1846
+--f--m--m--m--f--m : Loren(F), born:1821
+----------------
+Iris(F), born:1925
+--m : Robin(F), born:1899
+--m--m : Jayden(F), born:1872
+----------------
+Erica(F), born:1942
+--m : Emilie(F), born:1913
+--m--f : Devonte(M), born:1878
+----------------
+Jason(M), born:1897
+--f : Garett(M), born:1867
+----------------
+Brad(M), born:1914
+--f : Anton(M), born:1875
+----------------
+Tamara(F), born:1913
+--m : Shayla(F), born:1883
+----------------
+Amari(F), born:1922
+--f : Thaddeus(M), born:1888
+--f--m : Emma(F), born:1863
+----------------
+Ruby(F), born:1914
+--f : Terrence(M), born:1883
+--f--m : Rayna(F), born:1856
+--f--f : Marcos(M), born:1856
+----------------
+Jolie(F), born:1892
+--m : Madeline(F), born:1873
+--f : Wesley(M), born:1870
+----------------
+Jacquelyn(F), born:1952
+--m : Kristen(F), born:1924
+----------------
+Francis(M), born:1950
+--m : Aliyah(F), born:1924
+----------------
+Austin(M), born:1938
+--m : Samantha(F), born:1914
+----------------
+Antony(M), born:1905
+--m : Meagan(F), born:1886
+--f : Kobe(M), born:1882
+----------------
+Tabitha(F), born:1952
+--f : Roland(M), born:1926
+----------------
+Marlon(M), born:1872
+--f : Tristen(M), born:1849
+--f--m : Mikaela(F), born:1813
+--f--m--m : Gina(F), born:1788
+--f--m--f : Isaias(M), born:1790
+----------------
+Roderick(M), born:1919
+--m : Eileen(F), born:1892
+--f : Wyatt(M), born:1889
+--f--m : Kyla(F), born:1872
+--f--m--m : Kali(F), born:1845
+----------------
+Eden(F), born:1893
+--m : Aubrey(F), born:1868
+----------------
+Yasmin(F), born:1858
+--m : Giana(F), born:1834
+--f : Daryl(M), born:1841
+----------------
+Fidel(M), born:1879
+--m : Elisabeth(F), born:1841
+--m--f : Xavier(M), born:1820
+--f : Rene(M), born:1842
+--f--f : Jovani(M), born:1821
+--f--f--f : Conner(M), born:1796
+----------------
+Ana(F), born:1874
+--m : Nina(F), born:1835
+----------------
+Raina(F), born:1916
+--m : Baby(F), born:1882
+--f : Israel(M), born:1883
+----------------
+Myra(F), born:1929
+--m : Kaley(F), born:1909
+--m--m : Meagan(F), born:1886
+--m--f : Kobe(M), born:1882
+----------------
+Bella(F), born:1909
+--m : Madelynn(F), born:1877
+--m--m : Kacie(F), born:1854
+--m--f : Rory(M), born:1854
+--f : Luca(M), born:1876
+--f--m : Cynthia(F), born:1855
+--f--m--m : Lia(F), born:1830
+--f--m--m--f : Dante(M), born:1813
+--f--f : Josiah(M), born:1856
+----------------
+Cassie(F), born:1852
+--f : Kenneth(M), born:1829
+--f--f : Maurice(M), born:1800
+----------------
+Kelvin(M), born:1901
+--m : Jazlyn(F), born:1865
+--m--m : Anais(F), born:1841
+--m--m--m : Keira(F), born:1818
+--m--m--f : Daquan(M), born:1818
+--m--m--f--m : Kaya(F), born:1793
+--m--m--f--m--f : Lamont(M), born:1766
+--m--m--f--f : Darion(M), born:1790
+----------------
+Arlene(F), born:1874
+--f : Adam(M), born:1837
+----------------
+Benjamin(M), born:1914
+--f : Waylon(M), born:1889
+----------------
+Deonte(M), born:1867
+--f : Nathan(M), born:1844
+----------------
+Angel(F), born:1886
+--m : Nadia(F), born:1848
+--m--f : Dwayne(M), born:1822
+----------------
+Jaron(M), born:1948
+--m : Kristen(F), born:1924
+----------------
+Marlee(F), born:1904
+--m : Jackeline(F), born:1880
+--f : Garrison(M), born:1879
+--f--f : Ben(M), born:1848
+----------------
+Carson(M), born:1904
+--m : Anna(F), born:1883
+--f : Kyler(M), born:1879
+--f--f : Toby(M), born:1858
+----------------
+Dominic(M), born:1917
+--f : Dalton(M), born:1887
+--f--f : Ethen(M), born:1863
+----------------
+Nora(F), born:1924
+--m : Brisa(F), born:1903
+--m--m : Kelsey(F), born:1878
+--m--f : Bryant(M), born:1878
+--f : Kade(M), born:1905
+--f--f : Enrique(M), born:1877
+--f--f--f : Aiden(M), born:1847
+--f--f--f--m : Litzy(F), born:1819
+----------------
+Madilyn(F), born:1912
+--m : Lexi(F), born:1881
+--f : Kylan(M), born:1875
+----------------
+Michael(M), born:1926
+--m : Savana(F), born:1906
+--f : Mohammed(M), born:1906
+----------------
+Reese(M), born:1907
+--m : Celeste(F), born:1869
+--m--m : Shawna(F), born:1851
+--m--f : Denzel(M), born:1849
+--f : Colby(M), born:1869
+----------------
+Arielle(F), born:1873
+--m : Joyce(F), born:1849
+----------------
+Johnathan(M), born:1931
+--m : Teresa(F), born:1912
+--m--m : Robyn(F), born:1888
+--m--f : Eli(M), born:1886
+--m--f--m : Esmeralda(F), born:1863
+----------------
+Trista(F), born:1911
+--f : Keven(M), born:1891
+--f--m : Kenna(F), born:1859
+--f--m--m : Angie(F), born:1832
+--f--m--m--m : Meredith(F), born:1805
+--f--m--m--m--m : Kathryn(F), born:1783
+--f--m--m--m--f : Alfred(M), born:1782
+--f--m--m--m--f--m : Janie(F), born:1762
+----------------
+Valerie(F), born:1960
+--m : Abbigail(F), born:1922
+----------------
+Joaquin(M), born:1890
+--m : Emma(F), born:1863
+----------------
+Mireya(F), born:1932
+--m : Luisa(F), born:1906
+----------------
+Itzel(F), born:1941
+--m : Citlali(F), born:1923
+--m--m : Bryanna(F), born:1900
+--m--f : Andy(M), born:1899
+--f : Edwin(M), born:1924
+--f--m : Maegan(F), born:1896
+--f--f : Stanley(M), born:1899
+--f--f--f : Elisha(M), born:1870
+----------------
+Madisen(F), born:1941
+--m : Daniela(F), born:1907
+--m--f : Terrence(M), born:1883
+--m--f--m : Rayna(F), born:1856
+--m--f--f : Marcos(M), born:1856
+--f : Reynaldo(M), born:1909
+--f--m : Alia(F), born:1891
+--f--m--f : Leonardo(M), born:1868
+--f--f : Tariq(M), born:1887
+--f--f--m : Marianna(F), born:1851
+--f--f--f : Andre(M), born:1852
+----------------
+Unique(F), born:1915
+--m : Lexus(F), born:1887
+--m--f : Marquis(M), born:1860
+--m--f--f : Hassan(M), born:1841
+--m--f--f--m : Annalise(F), born:1815
+----------------
+Shane(M), born:1931
+--m : Kiara(F), born:1908
+----------------
+Ralph(M), born:1939
+--f : Marquise(M), born:1908
+----------------
+Brennan(M), born:1941
+--f : Brady(M), born:1917
+--f--f : Justin(M), born:1897
+--f--f--f : Brennen(M), born:1867
+----------------
+Franklin(M), born:1889
+--m : Marianna(F), born:1851
+--f : Andre(M), born:1852
+----------------
+Jazmine(F), born:1917
+--f : Devan(M), born:1897
+----------------
+Dion(M), born:1888
+--m : Abril(F), born:1855
+----------------
+Lincoln(M), born:1943
+--m : Layla(F), born:1907
+--f : Spencer(M), born:1912
+----------------
+Hayley(F), born:1810
+--m : Yolanda(F), born:1774
+--f : Jasper(M), born:1778
+----------------
+Garret(M), born:1906
+--f : Devonte(M), born:1878
+----------------
+Rahul(M), born:1930
+--m : Skyla(F), born:1901
+--f : Kody(M), born:1896
+--f--f : Anton(M), born:1875
+----------------
+Alena(F), born:1905
+--m : Kelsey(F), born:1878
+--f : Bryant(M), born:1878
+----------------
+Deandre(M), born:1921
+--m : Katharine(F), born:1897
+----------------
+Jan(M), born:1941
+--m : Zaria(F), born:1916
+--m--f : Marcus(M), born:1895
+--f : Sergio(M), born:1915
+--f--m : Tess(F), born:1886
+--f--f : Kory(M), born:1890
+----------------
+Kevon(M), born:1939
+--f : Markus(M), born:1916
+----------------
+Micaela(F), born:1913
+--f : Preston(M), born:1887
+--f--f : Felipe(M), born:1858
+----------------
+Julio(M), born:1910
+--m : Emilee(F), born:1884
+--f : Terry(M), born:1882
+--f--f : Alexzander(M), born:1863
+----------------
+Kristian(M), born:1921
+--f : Bennett(M), born:1899
+--f--m : Carrie(F), born:1878
+--f--m--m : Skye(F), born:1862
+--f--m--m--m : Giana(F), born:1834
+--f--m--m--f : Daryl(M), born:1841
+--f--f : Shayne(M), born:1876
+--f--f--m : Priscilla(F), born:1856
+----------------
+Miya(F), born:1929
+--m : Kaley(F), born:1909
+--m--m : Meagan(F), born:1886
+--m--f : Kobe(M), born:1882
+----------------
+Alayna(F), born:1934
+--m : Jana(F), born:1907
+--m--f : Lorenzo(M), born:1885
+--m--f--f : Andres(M), born:1865
+--m--f--f--m : Cecelia(F), born:1841
+--m--f--f--f : Cayden(M), born:1839
+--f : Tre(M), born:1909
+--f--m : Justice(F), born:1891
+--f--m--m : Reyna(F), born:1867
+--f--m--m--f : Simon(M), born:1851
+--f--m--f : Bruce(M), born:1867
+--f--f : Brian(M), born:1889
+----------------
+Giselle(F), born:1822
+--m : Haley(F), born:1792
+--m--f : Blaine(M), born:1775
+--m--f--m : Marie(F), born:1748
+--f : Keyon(M), born:1787
+--f--f : Myles(M), born:1766
+----------------
+Nash(M), born:1937
+--f : Lance(M), born:1914
+--f--m : Adriana(F), born:1896
+--f--m--m : Madeline(F), born:1873
+--f--m--f : Wesley(M), born:1870
+--f--f : Aidan(M), born:1897
+----------------
+Wayne(M), born:1888
+--m : Rayna(F), born:1856
+--f : Marcos(M), born:1856
+----------------
+Lukas(M), born:1929
+--m : Tierra(F), born:1902
+----------------
+Paloma(F), born:1846
+--m : Ayanna(F), born:1807
+----------------
+Omarion(M), born:1879
+--m : Jayde(F), born:1851
+--m--m : Katarina(F), born:1822
+--m--f : Grayson(M), born:1828
+--m--f--m : Emily(F), born:1800
+--m--f--m--m : Saige(F), born:1780
+--f : Trenton(M), born:1853
+--f--m : Katie(F), born:1827
+----------------
+Jamal(M), born:1837
+--m : Miranda(F), born:1807
+--m--m : Marina(F), born:1781
+----------------
+Kaitlin(F), born:1949
+--m : Sally(F), born:1926
+--m--m : Adriana(F), born:1896
+--m--m--m : Madeline(F), born:1873
+--m--m--f : Wesley(M), born:1870
+--m--f : Aidan(M), born:1897
+----------------
+Calvin(M), born:2004
+--f : Colin(M), born:1982
+--f--m : Jacey(F), born:1957
+--f--m--f : Ahmed(M), born:1930
+--f--m--f--m : Ashley(F), born:1908
+--f--m--f--m--m : Aniya(F), born:1885
+--f--m--f--m--m--m : Maryam(F), born:1864
+--f--m--f--m--m--m--f : Travon(M), born:1846
+--f--m--f--m--m--m--f--m : Loren(F), born:1821
+----------------
+Sophia(F), born:1897
+--m : Monique(F), born:1863
+--m--f : Adam(M), born:1837
+--f : Brenton(M), born:1866
+--f--m : Janet(F), born:1845
+----------------
+Adrianna(F), born:1887
+--m : Patricia(F), born:1860
+----------------
+Summer(F), born:1835
+--m : Paola(F), born:1790
+----------------
+Sam(M), born:1908
+--f : Vicente(M), born:1891
+--f--m : Isabell(F), born:1873
+----------------
+Guy(M), born:1929
+--m : Fiona(F), born:1907
+--f : Reece(M), born:1907
+----------------
+Corey(M), born:1888
+--f : Andres(M), born:1865
+--f--m : Cecelia(F), born:1841
+--f--f : Cayden(M), born:1839
+----------------
+Santos(M), born:1869
+--m : Kali(F), born:1845
+----------------
+Kiya(F), born:1936
+--m : Brooklynn(F), born:1910
+--f : Damion(M), born:1909
+--f--m : Meadow(F), born:1881
+--f--f : Aaron(M), born:1884
+--f--f--m : Skye(F), born:1862
+--f--f--m--m : Giana(F), born:1834
+--f--f--m--f : Daryl(M), born:1841
+----------------
+Carla(F), born:1929
+--f : Gian(M), born:1909
+--f--f : Deven(M), born:1887
+--f--f--f : Byron(M), born:1861
+----------------
+Gavin(M), born:1944
+--m : Zaria(F), born:1916
+--m--f : Marcus(M), born:1895
+--f : Sergio(M), born:1915
+--f--m : Tess(F), born:1886
+--f--f : Kory(M), born:1890
+----------------
+Korey(M), born:1895
+--m : Devon(F), born:1871
+--m--m : Kaylin(F), born:1844
+--m--m--f : Tyler(M), born:1820
+--f : Leon(M), born:1874
+----------------
+Reid(M), born:1859
+--m : Olivia(F), born:1821
+----------------
+Ashanti(F), born:1914
+--f : Muhammad(M), born:1889
+----------------
+Collin(M), born:1922
+--m : Brandy(F), born:1899
+--f : Fernando(M), born:1893
+----------------
+Jaylon(M), born:1912
+--f : Lorenzo(M), born:1885
+--f--f : Andres(M), born:1865
+--f--f--m : Cecelia(F), born:1841
+--f--f--f : Cayden(M), born:1839
+----------------
+Pranav(M), born:1902
+--f : Emmanuel(M), born:1882
+--f--f : Toby(M), born:1858
+----------------
+Mary(F), born:1810
+--f : German(M), born:1777
+----------------
+Rosa(F), born:1910
+--f : Darwin(M), born:1882
+--f--m : Gloria(F), born:1858
+--f--m--m : Melissa(F), born:1835
+----------------
+Aldo(M), born:1872
+--f : Bo(M), born:1852
+--f--f : Dustin(M), born:1831
+--f--f--m : Paola(F), born:1790
+----------------
+Cristopher(M), born:1922
+--f : Micah(M), born:1894
+--f--f : Reginald(M), born:1863
+----------------
+Carlie(F), born:1828
+--m : Mikayla(F), born:1787
+--f : Trevin(M), born:1791
+--f--m : Hana(F), born:1769
+----------------
+Pamela(F), born:1930
+--f : Heriberto(M), born:1900
+----------------
+Jane(F), born:1926
+--f : Braiden(M), born:1903
+--f--f : Ahmad(M), born:1880
+----------------
+Maddison(F), born:1948
+--f : Gianni(M), born:1928
+----------------
+Lola(F), born:1904
+--m : Alexus(F), born:1884
+--m--m : Patricia(F), born:1860
+----------------
+Layne(M), born:1952
+--f : Luciano(M), born:1923
+----------------
+Daisy(F), born:1926
+--m : Robyn(F), born:1888
+--f : Eli(M), born:1886
+--f--m : Esmeralda(F), born:1863
+----------------
+Mandy(F), born:1902
+--f : Caleb(M), born:1877
+--f--f : Cason(M), born:1848
+----------------
+Diamond(F), born:1965
+--f : Joan(M), born:1944
+--f--f : Anthony(M), born:1916
+----------------
+Dylon(M), born:1934
+--f : Cordell(M), born:1914
+--f--m : Anna(F), born:1883
+--f--f : Kyler(M), born:1879
+--f--f--f : Toby(M), born:1858
+----------------
+Laila(F), born:1885
+--m : Scarlett(F), born:1866
+--m--f : Nathan(M), born:1844
+----------------
+Raymond(M), born:1941
+--f : Jaylen(M), born:1913
+--f--m : Hope(F), born:1890
+--f--m--m : Jazlyn(F), born:1865
+--f--m--m--m : Anais(F), born:1841
+--f--m--m--m--m : Keira(F), born:1818
+--f--m--m--m--f : Daquan(M), born:1818
+--f--m--m--m--f--m : Kaya(F), born:1793
+--f--m--m--m--f--m--f : Lamont(M), born:1766
+--f--m--m--m--f--f : Darion(M), born:1790
+----------------
+Anabel(F), born:1891
+--m : Gloria(F), born:1858
+--m--m : Melissa(F), born:1835
+----------------
+Khalil(M), born:1910
+--f : Emmett(M), born:1890
+----------------
+Estevan(M), born:1948
+--m : Sheila(F), born:1930
+--m--m : Eileen(F), born:1892
+--m--f : Wyatt(M), born:1889
+--m--f--m : Kyla(F), born:1872
+--m--f--m--m : Kali(F), born:1845
+--f : Jamison(M), born:1932
+--f--m : Cali(F), born:1906
+--f--m--m : Lilliana(F), born:1878
+--f--m--m--m : Kaylah(F), born:1860
+--f--m--m--m--m : Juliette(F), born:1816
+--f--m--m--m--m--m : Perla(F), born:1794
+--f--m--m--m--m--m--m : Meghan(F), born:1773
+--f--m--m--m--m--m--f : Yadiel(M), born:1774
+--f--m--m--m--m--f : Griffin(M), born:1792
+--f--m--m--m--f : Jean(M), born:1814
+--f--m--m--f : Zain(M), born:1860
+--f--m--m--f--m : Piper(F), born:1837
+--f--m--m--f--f : Darren(M), born:1838
+--f--m--m--f--f--m : Ashlee(F), born:1809
+--f--m--m--f--f--f : Nicolas(M), born:1808
+----------------
+Braedon(M), born:1941
+--f : Kirk(M), born:1913
+----------------
+Kendal(F), born:1853
+--m : Katie(F), born:1827
+----------------
+Ricardo(M), born:1941
+--m : Alexys(F), born:1908
+----------------
+Chasity(F), born:1867
+--m : Liberty(F), born:1846
+--f : Milton(M), born:1845
+----------------
+Xzavier(M), born:1901
+--m : Anjali(F), born:1874
+--f : Keaton(M), born:1877
+--f--f : Giovanny(M), born:1855
+--f--f--m : Miranda(F), born:1807
+--f--f--m--m : Marina(F), born:1781
+----------------
+Eleanor(F), born:1912
+--m : Nicolette(F), born:1883
+----------------
+Vaughn(M), born:1899
+--f : Clark(M), born:1869
+----------------
+Chad(M), born:1903
+--m : Diana(F), born:1870
+--m--m : Aubrie(F), born:1847
+----------------
+Johan(M), born:1920
+--m : Riya(F), born:1901
+--f : Oliver(M), born:1904
+----------------
+Krista(F), born:1941
+--f : Ali(M), born:1912
+----------------
+Cortez(M), born:1938
+--m : Deasia(F), born:1914
+--m--f : Brendon(M), born:1887
+--m--f--m : Alejandra(F), born:1854
+--m--f--f : Joel(M), born:1854
+--m--f--f--m : Katie(F), born:1827
+----------------
+Angelo(M), born:1890
+--m : Devon(F), born:1871
+--m--m : Kaylin(F), born:1844
+--m--m--f : Tyler(M), born:1820
+--f : Leon(M), born:1874
+----------------
+Eliza(F), born:1867
+--m : Katlyn(F), born:1835
+--m--f : Moses(M), born:1813
+----------------
+Iyanna(F), born:1906
+--m : Hailey(F), born:1884
+--m--m : Jayde(F), born:1851
+--m--m--m : Katarina(F), born:1822
+--m--m--f : Grayson(M), born:1828
+--m--m--f--m : Emily(F), born:1800
+--m--m--f--m--m : Saige(F), born:1780
+--m--f : Trenton(M), born:1853
+--m--f--m : Katie(F), born:1827
+----------------
+Kiera(F), born:1847
+--f : Dwayne(M), born:1822
+----------------
+Abraham(M), born:1933
+--m : Haylee(F), born:1916
+--f : Kian(M), born:1912
+--f--m : Britney(F), born:1883
+----------------
+Addison(M), born:1918
+--f : Jagger(M), born:1895
+--f--m : Brooke(F), born:1874
+--f--f : Brycen(M), born:1872
+--f--f--f : Leonard(M), born:1847
+----------------
+Patience(F), born:1874
+--m : Destiny(F), born:1830
+--f : Zakary(M), born:1829
+--f--f : Carlton(M), born:1804
+--f--f--f : Allan(M), born:1782
+--f--f--f--m : Abigale(F), born:1755
+--f--f--f--f : Agustin(M), born:1755
+----------------
+Guadalupe(F), born:1879
+--m : Kenna(F), born:1859
+--m--m : Angie(F), born:1832
+--m--m--m : Meredith(F), born:1805
+--m--m--m--m : Kathryn(F), born:1783
+--m--m--m--f : Alfred(M), born:1782
+--m--m--m--f--m : Janie(F), born:1762
+----------------
+George(M), born:1923
+--f : Lucas(M), born:1900
+--f--m : Kailey(F), born:1873
+--f--f : Cameron(M), born:1876
+----------------
+Taniya(F), born:1924
+--m : Marlene(F), born:1904
+--f : Joey(M), born:1900
+----------------
+Kenzie(F), born:1904
+--m : Meagan(F), born:1886
+--f : Kobe(M), born:1882
+----------------
+Ariana(F), born:1921
+--f : Ray(M), born:1891
+----------------
+Gunner(M), born:1953
+--m : Nichole(F), born:1929
+--f : Rogelio(M), born:1934
+----------------
+Cael(M), born:1926
+--f : Braiden(M), born:1903
+--f--f : Ahmad(M), born:1880
+----------------
+Reed(M), born:1912
+--m : Yazmin(F), born:1876
+----------------
+Hadley(F), born:1918
+--m : Amira(F), born:1883
+--m--f : Eddy(M), born:1860
+----------------
+Dominique(M), born:1953
+--m : Shirley(F), born:1935
+--m--m : Angelina(F), born:1906
+--m--m--m : Jeanette(F), born:1885
+--m--m--m--m : Monique(F), born:1863
+--m--m--m--m--f : Adam(M), born:1837
+--m--m--m--f : Brenton(M), born:1866
+--m--m--m--f--m : Janet(F), born:1845
+----------------
+Lizeth(F), born:1860
+--m : Rhiannon(F), born:1837
+----------------
+Estrella(F), born:1800
+--f : Myles(M), born:1766
+----------------
+Ronald(M), born:1871
+--m : Amy(F), born:1826
+----------------
+Brett(M), born:1920
+--m : Kayleigh(F), born:1903
+--f : Shemar(M), born:1900
+----------------
+Colten(M), born:1803
+--m : Hana(F), born:1769
+----------------
+Larry(M), born:1889
+--m : Kassidy(F), born:1859
+----------------
+Fabian(M), born:1926
+--f : Sammy(M), born:1908
+----------------
+Beatriz(F), born:1919
+--f : Xander(M), born:1900
+--f--m : Tia(F), born:1863
+--f--m--f : Kenneth(M), born:1829
+--f--m--f--f : Maurice(M), born:1800
+----------------
+Ellis(M), born:1935
+--m : Stephanie(F), born:1911
+--m--m : Callie(F), born:1891
+--m--m--m : Annabelle(F), born:1874
+--m--m--m--m : Aja(F), born:1851
+--m--m--m--m--m : Destiny(F), born:1830
+--m--m--m--m--f : Zakary(M), born:1829
+--m--m--m--m--f--f : Carlton(M), born:1804
+--m--m--m--m--f--f--f : Allan(M), born:1782
+--m--m--m--m--f--f--f--m : Abigale(F), born:1755
+--m--m--m--m--f--f--f--f : Agustin(M), born:1755
+--m--m--m--f : Salvador(M), born:1851
+--m--m--m--f--m : Shakira(F), born:1824
+--m--m--f : Roger(M), born:1868
+--m--m--f--f : Aiden(M), born:1847
+--m--m--f--f--m : Litzy(F), born:1819
+----------------
+Anissa(F), born:1894
+--f : Walter(M), born:1859
+--f--m : Kaylie(F), born:1842
+--f--f : Emanuel(M), born:1838
+----------------
+Kent(M), born:1896
+--f : Reginald(M), born:1863
+----------------
+Donte(M), born:1811
+--m : Kathryn(F), born:1783
+--f : Alfred(M), born:1782
+--f--m : Janie(F), born:1762
+----------------
+Julian(M), born:1878
+--m : Makenna(F), born:1845
+--f : Jose(M), born:1845
+----------------
+Paulina(F), born:1919
+--m : Jimena(F), born:1888
+----------------
+Ibrahim(M), born:1824
+--f : Alan(M), born:1794
+----------------
+Maribel(F), born:1918
+--m : Eileen(F), born:1892
+--f : Wyatt(M), born:1889
+--f--m : Kyla(F), born:1872
+--f--m--m : Kali(F), born:1845
+----------------
+Leonel(M), born:1800
+--f : Grant(M), born:1779
+----------------
+Janice(F), born:1936
+--m : Norma(F), born:1908
+--m--m : Rylee(F), born:1880
+--m--m--f : Treyton(M), born:1845
+--m--m--f--m : Hannah(F), born:1816
+--m--m--f--m--m : Estefani(F), born:1796
+--m--m--f--m--m--m : Yolanda(F), born:1774
+--m--m--f--m--m--f : Jasper(M), born:1778
+--m--m--f--m--f : Kieran(M), born:1794
+--m--f : Dwight(M), born:1885
+--m--f--m : Chelsea(F), born:1868
+--m--f--m--m : Rhiannon(F), born:1837
+--f : Will(M), born:1909
+--f--m : Rylee(F), born:1880
+--f--m--f : Treyton(M), born:1845
+--f--m--f--m : Hannah(F), born:1816
+--f--m--f--m--m : Estefani(F), born:1796
+--f--m--f--m--m--m : Yolanda(F), born:1774
+--f--m--f--m--m--f : Jasper(M), born:1778
+--f--m--f--m--f : Kieran(M), born:1794
+--f--f : Dwight(M), born:1885
+--f--f--m : Chelsea(F), born:1868
+--f--f--m--m : Rhiannon(F), born:1837
+----------------
+Jack(M), born:1915
+--m : Eve(F), born:1890
+--m--f : Leo(M), born:1868
+--m--f--m : Liberty(F), born:1846
+--m--f--f : Milton(M), born:1845
+----------------
+Jabari(M), born:1908
+--m : Hazel(F), born:1890
+--f : Chaz(M), born:1890
+----------------
+Talon(M), born:1883
+--m : Gloria(F), born:1858
+--m--m : Melissa(F), born:1835
+----------------
+Willie(M), born:1841
+--m : Leah(F), born:1803
+--m--f : German(M), born:1777
+--f : Alonzo(M), born:1802
+----------------
+Giancarlo(M), born:1912
+--m : Emilee(F), born:1884
+--f : Terry(M), born:1882
+--f--f : Alexzander(M), born:1863
+----------------
+Tessa(F), born:1941
+--m : Mara(F), born:1921
+--f : Rey(M), born:1922
+----------------
+Kristina(F), born:1894
+--m : Devon(F), born:1871
+--m--m : Kaylin(F), born:1844
+--m--m--f : Tyler(M), born:1820
+--f : Leon(M), born:1874
+----------------
+Marshall(M), born:1901
+--m : Jasmyn(F), born:1878
+--m--m : Lizbeth(F), born:1860
+--f : Arthur(M), born:1880
+----------------
+Liliana(F), born:1895
+--m : Rayna(F), born:1856
+--f : Marcos(M), born:1856
+----------------
+Linda(F), born:1889
+--f : Brennen(M), born:1867
+----------------
+Taliyah(F), born:1875
+--f : Aiden(M), born:1847
+--f--m : Litzy(F), born:1819
+----------------
+Eugene(M), born:1892
+--m : Marisa(F), born:1854
+--m--m : Tracy(F), born:1832
+--f : Dillon(M), born:1852
+--f--m : Katlyn(F), born:1835
+--f--m--f : Moses(M), born:1813
+----------------
+Nick(M), born:1906
+--m : Kennedi(F), born:1878
+--f : Isiah(M), born:1880
+----------------
+Koby(M), born:1887
+--m : Lyndsey(F), born:1869
+--f : Dallin(M), born:1865
+----------------
+Edgardo(M), born:1911
+--m : Melanie(F), born:1883
+--f : Triston(M), born:1886
+----------------
+Selena(F), born:1949
+--f : Bret(M), born:1921
+----------------
+Gia(F), born:1942
+--m : Aimee(F), born:1924
+----------------
+Carl(M), born:1851
+--f : Moses(M), born:1813
+----------------
+Lucia(F), born:1898
+--m : Jasmyn(F), born:1878
+--m--m : Lizbeth(F), born:1860
+--f : Arthur(M), born:1880
+----------------
+Santino(M), born:1938
+--m : Renee(F), born:1915
+--m--f : Luc(M), born:1890
+----------------
+Sky(F), born:1909
+--m : Amira(F), born:1883
+--m--f : Eddy(M), born:1860
+----------------
+Melany(F), born:1886
+--f : Donavan(M), born:1862
+----------------
+Cole(M), born:1879
+--m : Theresa(F), born:1856
+--m--m : Wendy(F), born:1837
+--m--f : Samuel(M), born:1834
+----------------
+Sandra(F), born:1906
+--m : Kasey(F), born:1884
+--m--m : Tia(F), born:1863
+--m--m--f : Kenneth(M), born:1829
+--m--m--f--f : Maurice(M), born:1800
+--f : Devin(M), born:1883
+--f--m : Tia(F), born:1863
+--f--m--f : Kenneth(M), born:1829
+--f--m--f--f : Maurice(M), born:1800
+----------------
+Akira(F), born:1933
+--m : Kiara(F), born:1908
+----------------
+Kaitlynn(F), born:1924
+--m : Bailey(F), born:1907
+--m--m : Dulce(F), born:1874
+--m--m--f : Tristen(M), born:1849
+--m--m--f--m : Mikaela(F), born:1813
+--m--m--f--m--m : Gina(F), born:1788
+--m--m--f--m--f : Isaias(M), born:1790
+--f : Aditya(M), born:1907
+----------------
+Mariana(F), born:1942
+--m : Teresa(F), born:1912
+--m--m : Robyn(F), born:1888
+--m--f : Eli(M), born:1886
+--m--f--m : Esmeralda(F), born:1863
+----------------
+Jaheim(M), born:1902
+--f : Wade(M), born:1874
+----------------
+Kira(F), born:1912
+--m : Kendra(F), born:1877
+--m--m : Marisa(F), born:1854
+--m--m--m : Tracy(F), born:1832
+--m--f : Dillon(M), born:1852
+--m--f--m : Katlyn(F), born:1835
+--m--f--m--f : Moses(M), born:1813
+--f : Gilbert(M), born:1881
+----------------
+Mathew(M), born:1887
+--m : Reyna(F), born:1867
+--m--f : Simon(M), born:1851
+--f : Bruce(M), born:1867
+----------------
+Reuben(M), born:1905
+--m : Greta(F), born:1885
+--m--m : Madelyn(F), born:1866
+--m--m--f : Ross(M), born:1837
+--m--m--f--m : Aurora(F), born:1814
+--m--m--f--m--f : Alan(M), born:1794
+--m--m--f--f : Pedro(M), born:1814
+----------------
+Duane(M), born:1871
+--m : Celine(F), born:1833
+--m--m : Frida(F), born:1803
+--m--m--m : Lisa(F), born:1776
+--m--m--m--f : Norman(M), born:1750
+--m--f : Ezekiel(M), born:1805
+----------------
+Samara(F), born:1938
+--f : Marquise(M), born:1908
+----------------
+Brendan(M), born:1919
+--f : Lorenzo(M), born:1885
+--f--f : Andres(M), born:1865
+--f--f--m : Cecelia(F), born:1841
+--f--f--f : Cayden(M), born:1839
+----------------
+Pierce(M), born:1886
+--f : Joseph(M), born:1862
+--f--m : Jasmin(F), born:1836
+--f--m--f : Kolby(M), born:1813
+--f--m--f--f : Jayson(M), born:1787
+--f--m--f--f--m : Tamia(F), born:1762
+--f--m--f--f--m--m : Audrey(F), born:1743
+--f--m--f--f--m--f : Peter(M), born:1744
+--f--f : Ayden(M), born:1835
+--f--f--f : Drew(M), born:1818
+--f--f--f--m : Lisa(F), born:1776
+--f--f--f--m--f : Norman(M), born:1750
+----------------
+Nicole(F), born:1916
+--f : Preston(M), born:1887
+--f--f : Felipe(M), born:1858
+----------------
+Sydnee(F), born:1950
+--m : Serena(F), born:1925
+----------------
+Heath(M), born:1781
+--m : Audrey(F), born:1743
+--f : Peter(M), born:1744
+----------------
+Yesenia(F), born:1879
+--m : Evelyn(F), born:1851
+--f : Adrien(M), born:1854
+----------------
+Mallory(F), born:1935
+--m : Rachel(F), born:1916
+--f : Ronaldo(M), born:1915
+----------------
+Sheldon(M), born:1949
+--m : Allyssa(F), born:1931
+--m--f : Emmett(M), born:1890
+--f : Dillan(M), born:1931
+--f--f : Tyshawn(M), born:1897
+----------------
+Karla(F), born:1842
+--m : Ashlee(F), born:1809
+--f : Nicolas(M), born:1808
+----------------
+Mekhi(M), born:1925
+--m : Riya(F), born:1901
+--f : Oliver(M), born:1904
+----------------
+Brandon(M), born:1798
+--f : Lamont(M), born:1766
+----------------
+Graciela(F), born:1916
+--f : Micah(M), born:1894
+--f--f : Reginald(M), born:1863
+----------------
+Dania(F), born:1867
+--m : Alex(F), born:1843
+----------------
+Tanner(M), born:1900
+--m : Marisol(F), born:1869
+----------------
+Syed(M), born:1925
+--f : Jakobe(M), born:1903
+----------------
+Brianne(F), born:1902
+--m : Annabelle(F), born:1874
+--m--m : Aja(F), born:1851
+--m--m--m : Destiny(F), born:1830
+--m--m--f : Zakary(M), born:1829
+--m--m--f--f : Carlton(M), born:1804
+--m--m--f--f--f : Allan(M), born:1782
+--m--m--f--f--f--m : Abigale(F), born:1755
+--m--m--f--f--f--f : Agustin(M), born:1755
+--m--f : Salvador(M), born:1851
+--m--f--m : Shakira(F), born:1824
+--f : Roger(M), born:1868
+--f--f : Aiden(M), born:1847
+--f--f--m : Litzy(F), born:1819
+----------------
+Scott(M), born:1900
+--f : Enrique(M), born:1877
+--f--f : Aiden(M), born:1847
+--f--f--m : Litzy(F), born:1819
+----------------
+Nolan(M), born:1916
+--m : Alexandria(F), born:1886
+--f : Jairo(M), born:1891
+--f--m : Destiny(F), born:1830
+--f--f : Zakary(M), born:1829
+--f--f--f : Carlton(M), born:1804
+--f--f--f--f : Allan(M), born:1782
+--f--f--f--f--m : Abigale(F), born:1755
+--f--f--f--f--f : Agustin(M), born:1755
+----------------
+Dana(F), born:1913
+--m : Frances(F), born:1889
+--m--m : Candice(F), born:1862
+--f : Oswaldo(M), born:1891
+----------------
+Kara(F), born:1918
+--f : Darin(M), born:1880
+----------------
+Darlene(F), born:1890
+--f : Holden(M), born:1864
+--f--m : Destiney(F), born:1839
+--f--f : Ivan(M), born:1839
+----------------
+Elias(M), born:1858
+--m : Hannah(F), born:1816
+--m--m : Estefani(F), born:1796
+--m--m--m : Yolanda(F), born:1774
+--m--m--f : Jasper(M), born:1778
+--m--f : Kieran(M), born:1794
+----------------
+Jaidyn(F), born:1915
+--f : Terrell(M), born:1898
+--f--f : Prince(M), born:1874
+----------------
+Bradyn(M), born:1894
+--m : Anjali(F), born:1874
+--f : Keaton(M), born:1877
+--f--f : Giovanny(M), born:1855
+--f--f--m : Miranda(F), born:1807
+--f--f--m--m : Marina(F), born:1781
+----------------
+Harley(M), born:1892
+--f : Issac(M), born:1870
+----------------
+Raven(F), born:1968
+--f : Joan(M), born:1944
+--f--f : Anthony(M), born:1916
+----------------
+Raul(M), born:1880
+--m : Kassidy(F), born:1859
+----------------
+Lee(M), born:1928
+--f : Jakobe(M), born:1903
+----------------
+Leslie(F), born:1909
+--f : Reilly(M), born:1885
+----------------
+Maria(F), born:1947
+--f : Marvin(M), born:1916
+----------------
+Brody(M), born:1839
+--m : Frida(F), born:1803
+--m--m : Lisa(F), born:1776
+--m--m--f : Norman(M), born:1750
+--f : Ezekiel(M), born:1805
+----------------
+Juliana(F), born:1823
+--m : Saige(F), born:1780
+----------------
+Tania(F), born:1915
+--m : Shreya(F), born:1891
+--m--m : Elsa(F), born:1867
+----------------
+Peyton(M), born:1906
+--m : Jillian(F), born:1880
+--f : Vance(M), born:1881
+----------------
+Korbin(M), born:1904
+--m : Daniella(F), born:1871
+--f : Logan(M), born:1871
+----------------
+Abram(M), born:1946
+--m : Parker(F), born:1923
+--m--f : Caleb(M), born:1877
+--m--f--f : Cason(M), born:1848
+--f : Douglas(M), born:1925
+----------------
+Alexis(F), born:1906
+--m : Brooke(F), born:1874
+--f : Brycen(M), born:1872
+--f--f : Leonard(M), born:1847
+----------------
+Cornelius(M), born:1977
+--m : Jacey(F), born:1957
+--m--f : Ahmed(M), born:1930
+--m--f--m : Ashley(F), born:1908
+--m--f--m--m : Aniya(F), born:1885
+--m--f--m--m--m : Maryam(F), born:1864
+--m--f--m--m--m--f : Travon(M), born:1846
+--m--f--m--m--m--f--m : Loren(F), born:1821
+----------------
+Regina(F), born:1929
+--f : Pablo(M), born:1910
+----------------
+Lauren(F), born:1874
+--m : Shakira(F), born:1824
+----------------
+Dandre(M), born:1885
+--m : Maleah(F), born:1857
+----------------
+Hayden(M), born:1929
+--m : Angelica(F), born:1904
+--m--m : Lexi(F), born:1881
+--m--f : Kylan(M), born:1875
+----------------
+Finn(M), born:1945
+--m : Alexys(F), born:1908
+----------------
+Julissa(F), born:1888
+--f : Holden(M), born:1864
+--f--m : Destiney(F), born:1839
+--f--f : Ivan(M), born:1839
+----------------
+Weston(M), born:1935
+--m : Madisyn(F), born:1912
+--f : Rafael(M), born:1908
+--f--m : Jazmyn(F), born:1881
+--f--f : Alijah(M), born:1882
+----------------
+Seth(M), born:1887
+--m : Theresa(F), born:1856
+--m--m : Wendy(F), born:1837
+--m--f : Samuel(M), born:1834
+----------------
+Aryanna(F), born:1891
+--m : Jazlyn(F), born:1865
+--m--m : Anais(F), born:1841
+--m--m--m : Keira(F), born:1818
+--m--m--f : Daquan(M), born:1818
+--m--m--f--m : Kaya(F), born:1793
+--m--m--f--m--f : Lamont(M), born:1766
+--m--m--f--f : Darion(M), born:1790
+----------------
+Cecilia(F), born:1917
+--m : Alanna(F), born:1898
+--m--m : Christine(F), born:1858
+--m--m--f : Manuel(M), born:1837
+--m--m--f--f : Adan(M), born:1814
+--m--m--f--f--m : Mikayla(F), born:1787
+--m--m--f--f--f : Trevin(M), born:1791
+--m--m--f--f--f--m : Hana(F), born:1769
+--m--f : Victor(M), born:1862
+--m--f--m : Nina(F), born:1835
+--f : Avery(M), born:1893
+--f--m : Cierra(F), born:1874
+--f--m--m : Sasha(F), born:1852
+--f--m--f : Benny(M), born:1850
+--f--m--f--f : Clayton(M), born:1817
+--f--m--f--f--m : Haley(F), born:1792
+--f--m--f--f--m--f : Blaine(M), born:1775
+--f--m--f--f--m--f--m : Marie(F), born:1748
+--f--m--f--f--f : Keyon(M), born:1787
+--f--m--f--f--f--f : Myles(M), born:1766
+--f--f : Kennedy(M), born:1873
+--f--f--m : Fernanda(F), born:1852
+--f--f--m--m : Alivia(F), born:1832
+--f--f--m--m--m : Leah(F), born:1803
+--f--f--m--m--m--f : German(M), born:1777
+--f--f--m--m--f : Alonzo(M), born:1802
+--f--f--m--f : Darnell(M), born:1832
+----------------
+Mitchel(M), born:1833
+--m : Miranda(F), born:1807
+--m--m : Marina(F), born:1781
+----------------
+Catherine(F), born:1882
+--f : Byron(M), born:1861
+----------------
+Todd(M), born:1884
+--m : Kamryn(F), born:1858
+--m--m : Celine(F), born:1833
+--m--m--m : Frida(F), born:1803
+--m--m--m--m : Lisa(F), born:1776
+--m--m--m--m--f : Norman(M), born:1750
+--m--m--f : Ezekiel(M), born:1805
+--f : Quentin(M), born:1856
+--f--m : Delaney(F), born:1833
+--f--f : Zack(M), born:1831
+----------------
+Adriel(M), born:1944
+--f : Jonathan(M), born:1924
+--f--m : Bailey(F), born:1907
+--f--m--m : Dulce(F), born:1874
+--f--m--m--f : Tristen(M), born:1849
+--f--m--m--f--m : Mikaela(F), born:1813
+--f--m--m--f--m--m : Gina(F), born:1788
+--f--m--m--f--m--f : Isaias(M), born:1790
+--f--f : Aditya(M), born:1907
+----------------
+Camille(F), born:1931
+--m : Colleen(F), born:1907
+----------------
+Jocelyn(F), born:1891
+--f : Brennen(M), born:1867
+----------------
+Marco(M), born:1940
+--m : Teresa(F), born:1912
+--m--m : Robyn(F), born:1888
+--m--f : Eli(M), born:1886
+--m--f--m : Esmeralda(F), born:1863
+----------------
+Josie(F), born:1892
+--f : Holden(M), born:1864
+--f--m : Destiney(F), born:1839
+--f--f : Ivan(M), born:1839
+----------------
+Rickey(M), born:1859
+--m : Delaney(F), born:1833
+--f : Zack(M), born:1831
+----------------
+Jaylin(F), born:1897
+--f : Cullen(M), born:1876
+----------------
+Katy(F), born:1830
+--f : Maurice(M), born:1800
+----------------
+Octavio(M), born:1909
+--m : Cierra(F), born:1874
+--m--m : Sasha(F), born:1852
+--m--f : Benny(M), born:1850
+--m--f--f : Clayton(M), born:1817
+--m--f--f--m : Haley(F), born:1792
+--m--f--f--m--f : Blaine(M), born:1775
+--m--f--f--m--f--m : Marie(F), born:1748
+--m--f--f--f : Keyon(M), born:1787
+--m--f--f--f--f : Myles(M), born:1766
+--f : Kennedy(M), born:1873
+--f--m : Fernanda(F), born:1852
+--f--m--m : Alivia(F), born:1832
+--f--m--m--m : Leah(F), born:1803
+--f--m--m--m--f : German(M), born:1777
+--f--m--m--f : Alonzo(M), born:1802
+--f--m--f : Darnell(M), born:1832
+----------------
+Kristin(F), born:1912
+--m : Carol(F), born:1891
+--m--f : Jaiden(M), born:1874
+--m--f--m : Joyce(F), born:1849
+----------------
+Gaige(M), born:1924
+--m : Sharon(F), born:1890
+--m--m : Faith(F), born:1862
+--m--f : Jeff(M), born:1869
+--f : Darius(M), born:1890
+--f--m : Calista(F), born:1865
+--f--f : Mustafa(M), born:1869
+----------------
+Trey(M), born:1949
+--f : Anthony(M), born:1916
+----------------
+Jeffrey(M), born:1899
+--m : Isabelle(F), born:1863
+--m--m : Elisabeth(F), born:1841
+--m--m--f : Xavier(M), born:1820
+--m--f : Rene(M), born:1842
+--m--f--f : Jovani(M), born:1821
+--m--f--f--f : Conner(M), born:1796
+----------------
+Conrad(M), born:1929
+--f : Frank(M), born:1905
+--f--f : Ryley(M), born:1869
+--f--f--m : Nikki(F), born:1846
+--f--f--m--m : Olivia(F), born:1821
+--f--f--f : Rudy(M), born:1846
+----------------
+Ayana(F), born:1908
+--m : Tess(F), born:1886
+--f : Kory(M), born:1890
+----------------
+Jennifer(F), born:1858
+--m : Wendy(F), born:1837
+--f : Samuel(M), born:1834
+----------------
+Harry(M), born:1916
+--m : Sade(F), born:1892
+--f : Malachi(M), born:1894
+----------------
+Derek(M), born:1917
+--m : Lexus(F), born:1887
+--m--f : Marquis(M), born:1860
+--m--f--f : Hassan(M), born:1841
+--m--f--f--m : Annalise(F), born:1815
+----------------
+Toni(F), born:1927
+--m : Hope(F), born:1890
+--m--m : Jazlyn(F), born:1865
+--m--m--m : Anais(F), born:1841
+--m--m--m--m : Keira(F), born:1818
+--m--m--m--f : Daquan(M), born:1818
+--m--m--m--f--m : Kaya(F), born:1793
+--m--m--m--f--m--f : Lamont(M), born:1766
+--m--m--m--f--f : Darion(M), born:1790
+----------------
+Libby(F), born:1798
+--m : Hana(F), born:1769
+----------------
+Gracie(F), born:1899
+--m : Lexi(F), born:1881
+--f : Kylan(M), born:1875
+----------------
+Kimberly(F), born:1923
+--f : Kaden(M), born:1891
+----------------
+Dario(M), born:1930
+--m : Brandy(F), born:1899
+--f : Fernando(M), born:1893
+----------------
+Malia(F), born:1879
+--m : Kaylah(F), born:1860
+--m--m : Juliette(F), born:1816
+--m--m--m : Perla(F), born:1794
+--m--m--m--m : Meghan(F), born:1773
+--m--m--m--f : Yadiel(M), born:1774
+--m--m--f : Griffin(M), born:1792
+--m--f : Jean(M), born:1814
+--f : Zain(M), born:1860
+--f--m : Piper(F), born:1837
+--f--f : Darren(M), born:1838
+--f--f--m : Ashlee(F), born:1809
+--f--f--f : Nicolas(M), born:1808
+----------------
+Adonis(M), born:1895
+--m : Elsa(F), born:1867
+----------------
+Silas(M), born:1882
+--f : Jaden(M), born:1856
+----------------
+Carley(F), born:1919
+--m : Estefania(F), born:1883
+--m--m : Jordyn(F), born:1860
+--m--f : Nickolas(M), born:1858
+--f : Brayden(M), born:1888
+----------------
+Donovan(M), born:1930
+--f : Arjun(M), born:1905
+----------------
+Jaylan(M), born:1894
+--m : Annabelle(F), born:1874
+--m--m : Aja(F), born:1851
+--m--m--m : Destiny(F), born:1830
+--m--m--f : Zakary(M), born:1829
+--m--m--f--f : Carlton(M), born:1804
+--m--m--f--f--f : Allan(M), born:1782
+--m--m--f--f--f--m : Abigale(F), born:1755
+--m--m--f--f--f--f : Agustin(M), born:1755
+--m--f : Salvador(M), born:1851
+--m--f--m : Shakira(F), born:1824
+--f : Roger(M), born:1868
+--f--f : Aiden(M), born:1847
+--f--f--m : Litzy(F), born:1819
+----------------
+Perry(M), born:1901
+--f : Ryley(M), born:1869
+--f--m : Nikki(F), born:1846
+--f--m--m : Olivia(F), born:1821
+--f--f : Rudy(M), born:1846
+----------------
+Aron(M), born:1932
+--m : Juliet(F), born:1906
+--m--m : Isabela(F), born:1890
+--m--f : Harrison(M), born:1890
+--f : Darian(M), born:1907
+----------------
+Kylie(F), born:1926
+--m : Kasandra(F), born:1902
+----------------
+Giovanna(F), born:1909
+--m : Mercedes(F), born:1892
+----------------
+Tony(M), born:1940
+--f : Ali(M), born:1912
+----------------
+Crystal(F), born:1897
+--m : Vanessa(F), born:1868
+----------------
+Eliezer(M), born:1921
+--m : Yessenia(F), born:1900
+--f : Rodney(M), born:1894
+----------------
+Tavion(M), born:1873
+--m : Janet(F), born:1845
+----------------
+Johnathon(M), born:1946
+--f : Patrick(M), born:1919
+--f--f : Xander(M), born:1900
+--f--f--m : Tia(F), born:1863
+--f--f--m--f : Kenneth(M), born:1829
+--f--f--m--f--f : Maurice(M), born:1800
+----------------
+Donna(F), born:1930
+--m : Damaris(F), born:1898
+--f : Blaise(M), born:1895
+----------------
+Johnny(M), born:1927
+--m : Brooklynn(F), born:1910
+--f : Damion(M), born:1909
+--f--m : Meadow(F), born:1881
+--f--f : Aaron(M), born:1884
+--f--f--m : Skye(F), born:1862
+--f--f--m--m : Giana(F), born:1834
+--f--f--m--f : Daryl(M), born:1841
+----------------
+Nayeli(F), born:1812
+--m : Yolanda(F), born:1774
+--f : Jasper(M), born:1778
+----------------
+Carli(F), born:1824
+--m : Kaya(F), born:1793
+--m--f : Lamont(M), born:1766
+--f : Darion(M), born:1790
+----------------
+Moriah(F), born:1948
+--m : Paige(F), born:1931
+--m--m : Maegan(F), born:1896
+--m--f : Stanley(M), born:1899
+--m--f--f : Elisha(M), born:1870
+--f : Eduardo(M), born:1930
+----------------
+Amber(F), born:1922
+--f : Lucas(M), born:1900
+--f--m : Kailey(F), born:1873
+--f--f : Cameron(M), born:1876
+----------------
+Romeo(M), born:1911
+--f : Brendon(M), born:1887
+--f--m : Alejandra(F), born:1854
+--f--f : Joel(M), born:1854
+--f--f--m : Katie(F), born:1827
+----------------
+Ava(F), born:1913
+--m : Joelle(F), born:1893
+--m--m : Julianne(F), born:1874
+--m--f : Edgar(M), born:1873
+--f : Elliott(M), born:1889
+----------------
+Sabastian(M), born:1940
+--m : Emilie(F), born:1913
+--m--f : Devonte(M), born:1878
+----------------
+Vivian(F), born:1900
+--m : Madeline(F), born:1873
+--f : Wesley(M), born:1870
+----------------
+Alaina(F), born:1920
+--f : Derrick(M), born:1896
+----------------
+Darryl(M), born:1937
+--m : Stephanie(F), born:1911
+--m--m : Callie(F), born:1891
+--m--m--m : Annabelle(F), born:1874
+--m--m--m--m : Aja(F), born:1851
+--m--m--m--m--m : Destiny(F), born:1830
+--m--m--m--m--f : Zakary(M), born:1829
+--m--m--m--m--f--f : Carlton(M), born:1804
+--m--m--m--m--f--f--f : Allan(M), born:1782
+--m--m--m--m--f--f--f--m : Abigale(F), born:1755
+--m--m--m--m--f--f--f--f : Agustin(M), born:1755
+--m--m--m--f : Salvador(M), born:1851
+--m--m--m--f--m : Shakira(F), born:1824
+--m--m--f : Roger(M), born:1868
+--m--m--f--f : Aiden(M), born:1847
+--m--m--f--f--m : Litzy(F), born:1819
+----------------
+Skylar(F), born:1907
+--m : Adeline(F), born:1888
+--m--m : Lyndsey(F), born:1869
+--m--f : Dallin(M), born:1865
+----------------
+James(M), born:1958
+--m : Jaliyah(F), born:1935
+--m--f : Cedric(M), born:1919
+--m--f--m : Joelle(F), born:1893
+--m--f--m--m : Julianne(F), born:1874
+--m--f--m--f : Edgar(M), born:1873
+--m--f--f : Elliott(M), born:1889
+--f : Keanu(M), born:1941
+----------------
+Lizette(F), born:1921
+--f : Mauricio(M), born:1890
+--f--m : Kaia(F), born:1868
+----------------
+Bernardo(M), born:1896
+--f : Issac(M), born:1870
+----------------
+Lina(F), born:1916
+--m : Cassidy(F), born:1893
+--f : Sawyer(M), born:1891
+--f--m : Sydnie(F), born:1868
+--f--m--m : Katelin(F), born:1837
+--f--m--m--m : Rianna(F), born:1813
+--f--m--m--f : Bryson(M), born:1812
+--f--m--m--f--m : Jakayla(F), born:1787
+--f--m--m--f--f : Max(M), born:1783
+----------------
+Mario(M), born:1938
+--m : Karen(F), born:1914
+----------------
+Alberto(M), born:1940
+--m : Karlie(F), born:1918
+--f : Tyrone(M), born:1914
+----------------
+Milo(M), born:1931
+--m : Ashleigh(F), born:1902
+----------------
+Alysa(F), born:1897
+--f : Cullen(M), born:1876
+----------------
+Halle(F), born:1904
+--f : Caleb(M), born:1877
+--f--f : Cason(M), born:1848
+----------------
+Tyson(M), born:1934
+--m : Maegan(F), born:1896
+--f : Stanley(M), born:1899
+--f--f : Elisha(M), born:1870
+----------------
+Alexandre(M), born:1934
+--m : Ashley(F), born:1908
+--m--m : Aniya(F), born:1885
+--m--m--m : Maryam(F), born:1864
+--m--m--m--f : Travon(M), born:1846
+--m--m--m--f--m : Loren(F), born:1821
+----------------
+Orlando(M), born:1794
+--m : Janie(F), born:1762
+----------------
+Tobias(M), born:1945
+--m : Jana(F), born:1907
+--m--f : Lorenzo(M), born:1885
+--m--f--f : Andres(M), born:1865
+--m--f--f--m : Cecelia(F), born:1841
+--m--f--f--f : Cayden(M), born:1839
+--f : Tre(M), born:1909
+--f--m : Justice(F), born:1891
+--f--m--m : Reyna(F), born:1867
+--f--m--m--f : Simon(M), born:1851
+--f--m--f : Bruce(M), born:1867
+--f--f : Brian(M), born:1889
+----------------
+Gavyn(M), born:1884
+--m : Tatum(F), born:1860
+--m--m : Ella(F), born:1833
+--m--m--m : Elle(F), born:1814
+--m--m--m--m : Paola(F), born:1790
+--m--f : Alejandro(M), born:1832
+--m--f--m : Savanah(F), born:1802
+--m--f--f : Adrian(M), born:1803
+----------------
+Mya(F), born:1950
+--f : Ismael(M), born:1923
+----------------
+Holly(F), born:1933
+--f : Cooper(M), born:1910
+----------------
+Destin(M), born:1865
+--m : Alivia(F), born:1832
+--m--m : Leah(F), born:1803
+--m--m--f : German(M), born:1777
+--m--f : Alonzo(M), born:1802
+--f : Darnell(M), born:1832
+----------------
+Bryana(F), born:1897
+--f : Ronan(M), born:1876
+--f--m : Alex(F), born:1843
+----------------
+Kyleigh(F), born:1851
+--m : Keira(F), born:1818
+--f : Daquan(M), born:1818
+--f--m : Kaya(F), born:1793
+--f--m--f : Lamont(M), born:1766
+--f--f : Darion(M), born:1790
+----------------
+Richard(M), born:1926
+--m : Makenzie(F), born:1900
+--f : Mohammad(M), born:1901
+----------------
+Thalia(F), born:1937
+--m : Ashley(F), born:1908
+--m--m : Aniya(F), born:1885
+--m--m--m : Maryam(F), born:1864
+--m--m--m--f : Travon(M), born:1846
+--m--m--m--f--m : Loren(F), born:1821
+----------------
+Gregory(M), born:1904
+--m : Aja(F), born:1851
+--m--m : Destiny(F), born:1830
+--m--f : Zakary(M), born:1829
+--m--f--f : Carlton(M), born:1804
+--m--f--f--f : Allan(M), born:1782
+--m--f--f--f--m : Abigale(F), born:1755
+--m--f--f--f--f : Agustin(M), born:1755
+--f : Salvador(M), born:1851
+--f--m : Shakira(F), born:1824
+----------------
+Deja(F), born:1900
+--m : Jillian(F), born:1880
+--f : Vance(M), born:1881
+----------------
+Paris(F), born:1930
+--m : Luz(F), born:1900
+--m--m : Kendra(F), born:1877
+--m--m--m : Marisa(F), born:1854
+--m--m--m--m : Tracy(F), born:1832
+--m--m--f : Dillon(M), born:1852
+--m--m--f--m : Katlyn(F), born:1835
+--m--m--f--m--f : Moses(M), born:1813
+--m--f : Gilbert(M), born:1881
+--f : Davin(M), born:1903
+--f--m : Kayla(F), born:1880
+--f--m--f : Hassan(M), born:1841
+--f--m--f--m : Annalise(F), born:1815
+--f--f : Alvin(M), born:1874
+--f--f--m : Araceli(F), born:1857
+----------------
+Charlie(M), born:1900
+--m : Jaclyn(F), born:1873
+--m--m : Maleah(F), born:1857
+----------------
+Gerald(M), born:1896
+--m : Abril(F), born:1855
+----------------
+Zackery(M), born:1848
+--m : Keira(F), born:1818
+--f : Daquan(M), born:1818
+--f--m : Kaya(F), born:1793
+--f--m--f : Lamont(M), born:1766
+--f--f : Darion(M), born:1790
+----------------
+Haden(M), born:1894
+--m : Esmeralda(F), born:1863
+----------------
+Aliza(F), born:1831
+--m : Leah(F), born:1803
+--m--f : German(M), born:1777
+--f : Alonzo(M), born:1802
+----------------
+Marquez(M), born:1886
+--f : Rodolfo(M), born:1865
+----------------
+Amanda(F), born:1958
+--f : Omar(M), born:1933
+--f--m : Chelsey(F), born:1902
+----------------
+Angelique(F), born:1910
+--m : Adeline(F), born:1888
+--m--m : Lyndsey(F), born:1869
+--m--f : Dallin(M), born:1865
+----------------
+Gunnar(M), born:1914
+--m : Sade(F), born:1892
+--f : Malachi(M), born:1894
+----------------
+Salma(F), born:1866
+--m : Amy(F), born:1826
+----------------
+Cory(M), born:1947
+--m : Jayda(F), born:1924
+--f : Kristofer(M), born:1922
+--f--f : Theodore(M), born:1900
+--f--f--m : Yazmin(F), born:1876
+----------------
+Jonah(M), born:1926
+--m : Alissa(F), born:1905
+--f : Clarence(M), born:1905
+--f--f : David(M), born:1880
+----------------
+Sadie(F), born:1902
+--m : Madelynn(F), born:1877
+--m--m : Kacie(F), born:1854
+--m--f : Rory(M), born:1854
+--f : Luca(M), born:1876
+--f--m : Cynthia(F), born:1855
+--f--m--m : Lia(F), born:1830
+--f--m--m--f : Dante(M), born:1813
+--f--f : Josiah(M), born:1856
+----------------
+Sullivan(M), born:1907
+--m : Aileen(F), born:1881
+--f : Samir(M), born:1884
+----------------
+Earl(M), born:1919
+--m : Kaylyn(F), born:1885
+--m--m : Alma(F), born:1861
+--f : Cade(M), born:1885
+----------------
+Presley(F), born:1931
+--m : Norma(F), born:1908
+--m--m : Rylee(F), born:1880
+--m--m--f : Treyton(M), born:1845
+--m--m--f--m : Hannah(F), born:1816
+--m--m--f--m--m : Estefani(F), born:1796
+--m--m--f--m--m--m : Yolanda(F), born:1774
+--m--m--f--m--m--f : Jasper(M), born:1778
+--m--m--f--m--f : Kieran(M), born:1794
+--m--f : Dwight(M), born:1885
+--m--f--m : Chelsea(F), born:1868
+--m--f--m--m : Rhiannon(F), born:1837
+--f : Will(M), born:1909
+--f--m : Rylee(F), born:1880
+--f--m--f : Treyton(M), born:1845
+--f--m--f--m : Hannah(F), born:1816
+--f--m--f--m--m : Estefani(F), born:1796
+--f--m--f--m--m--m : Yolanda(F), born:1774
+--f--m--f--m--m--f : Jasper(M), born:1778
+--f--m--f--m--f : Kieran(M), born:1794
+--f--f : Dwight(M), born:1885
+--f--f--m : Chelsea(F), born:1868
+--f--f--m--m : Rhiannon(F), born:1837
+----------------
+Brock(M), born:1950
+--f : Jarrett(M), born:1916
+--f--m : Ebony(F), born:1888
+--f--f : Donald(M), born:1888
+----------------
+Lilian(F), born:1901
+--m : Evelin(F), born:1877
+--m--f : Jaden(M), born:1856
+----------------
+Santiago(M), born:1872
+--m : Nikki(F), born:1846
+--m--m : Olivia(F), born:1821
+--f : Rudy(M), born:1846
+----------------
+Winston(M), born:1898
+--f : Leonardo(M), born:1868
+----------------
+Hugo(M), born:1870
+--m : Savanah(F), born:1802
+--f : Adrian(M), born:1803
+----------------
+Bilal(M), born:1882
+--f : Alexzander(M), born:1863
+----------------
+Ximena(F), born:1936
+--f : Marvin(M), born:1916
+----------------
+Deangelo(M), born:1924
+--f : Waylon(M), born:1889
+----------------
+Jake(M), born:1881
+--f : Eddy(M), born:1860
+----------------
+Caden(M), born:1922
+--m : Rita(F), born:1901
+----------------
+Selina(F), born:1936
+--m : Ashleigh(F), born:1902
+----------------
+Leila(F), born:1889
+--m : Kaia(F), born:1868
+----------------
+Felicity(F), born:1935
+--m : Tierra(F), born:1902
+----------------
+Rigoberto(M), born:1917
+--f : Trent(M), born:1890
+--f--f : Garett(M), born:1867
+----------------
+Nelson(M), born:1904
+--m : Isis(F), born:1882
+--m--m : Jayde(F), born:1851
+--m--m--m : Katarina(F), born:1822
+--m--m--f : Grayson(M), born:1828
+--m--m--f--m : Emily(F), born:1800
+--m--m--f--m--m : Saige(F), born:1780
+--m--f : Trenton(M), born:1853
+--m--f--m : Katie(F), born:1827
+----------------
+Violet(F), born:1913
+--m : Estefania(F), born:1883
+--m--m : Jordyn(F), born:1860
+--m--f : Nickolas(M), born:1858
+--f : Brayden(M), born:1888
+----------------
+Roberto(M), born:1898
+--m : Ciera(F), born:1879
+--f : Anderson(M), born:1880
+----------------
+Pierre(M), born:1941
+--m : Renee(F), born:1915
+--m--f : Luc(M), born:1890
+----------------
+Billy(M), born:1915
+--f : Waylon(M), born:1889
+----------------
+Luis(M), born:1946
+--m : Tina(F), born:1926
+--f : Oscar(M), born:1923
+--f--m : Ansley(F), born:1906
+----------------
+Duncan(M), born:1904
+--m : Macey(F), born:1884
+--m--m : Zoe(F), born:1863
+----------------
+Judith(F), born:1941
+--f : Patrick(M), born:1919
+--f--f : Xander(M), born:1900
+--f--f--m : Tia(F), born:1863
+--f--f--m--f : Kenneth(M), born:1829
+--f--f--m--f--f : Maurice(M), born:1800
+----------------
+Aylin(F), born:1876
+--f : Leonard(M), born:1847
+----------------
+Nathaniel(M), born:1857
+--f : Manuel(M), born:1837
+--f--f : Adan(M), born:1814
+--f--f--m : Mikayla(F), born:1787
+--f--f--f : Trevin(M), born:1791
+--f--f--f--m : Hana(F), born:1769
+----------------
+Demetrius(M), born:1957
+--m : Abbigail(F), born:1922
+----------------
+Dangelo(M), born:1925
+--m : Aaliyah(F), born:1899
+--f : Neal(M), born:1896
+--f--f : Mohamed(M), born:1871
+----------------
+Tyree(M), born:1873
+--m : Shakira(F), born:1824
+----------------
+Brionna(F), born:1913
+--m : Jayla(F), born:1883
+--f : Elvin(M), born:1882
+--f--f : Walter(M), born:1859
+--f--f--m : Kaylie(F), born:1842
+--f--f--f : Emanuel(M), born:1838
+----------------
+Karl(M), born:1896
+--m : Candice(F), born:1862
+----------------
+Ramiro(M), born:1952
+--f : Grady(M), born:1935
+----------------
+Henry(M), born:1930
+--m : Galilea(F), born:1913
+--m--m : Marcella(F), born:1890
+--f : Kurt(M), born:1906
+----------------
+Asia(F), born:1864
+--f : Travon(M), born:1846
+--f--m : Loren(F), born:1821
+----------------
+Kolton(M), born:1921
+--m : Bryanna(F), born:1900
+--f : Andy(M), born:1899
+----------------
+Ainsley(F), born:1881
+--m : Nina(F), born:1835
+----------------
+Kaiden(M), born:1844
+--f : Clayton(M), born:1817
+--f--m : Haley(F), born:1792
+--f--m--f : Blaine(M), born:1775
+--f--m--f--m : Marie(F), born:1748
+--f--f : Keyon(M), born:1787
+--f--f--f : Myles(M), born:1766
+----------------
+Martin(M), born:1915
+--f : Kaden(M), born:1891
+----------------
+Jermaine(M), born:1932
+--m : Kiara(F), born:1908
+----------------
+Carina(F), born:1946
+--m : Aimee(F), born:1924
+----------------
+Brenden(M), born:1837
+--m : Mikaela(F), born:1813
+--m--m : Gina(F), born:1788
+--m--f : Isaias(M), born:1790
+----------------
+London(F), born:1922
+--f : Thaddeus(M), born:1888
+--f--m : Emma(F), born:1863
+----------------
+John(M), born:1910
+--m : Kennedi(F), born:1878
+--f : Isiah(M), born:1880
+----------------
+April(F), born:1931
+--m : Katharine(F), born:1897
+----------------
+Junior(M), born:1924
+--f : Jonathon(M), born:1899
+----------------
+Laura(F), born:1873
+--m : Jaylynn(F), born:1847
+--m--f : Cyrus(M), born:1824
+----------------
+Keshawn(M), born:1927
+--f : Nehemiah(M), born:1908
+----------------
+Hamza(M), born:1875
+--m : Veronica(F), born:1853
+----------------
+Nestor(M), born:1880
+--f : Jaden(M), born:1856
+----------------
+Kaleigh(F), born:1891
+--m : Elsa(F), born:1867
+----------------
+Glenn(M), born:1891
+--f : Ethen(M), born:1863
+----------------
+Casey(F), born:1973
+--m : Maggie(F), born:1945
+--m--m : Kallie(F), born:1924
+--m--f : Felix(M), born:1923
+--f : Stuart(M), born:1945
+--f--f : Chase(M), born:1918
+--f--f--f : Vicente(M), born:1891
+--f--f--f--m : Isabell(F), born:1873
+----------------
+Shannon(F), born:1891
+--f : Felipe(M), born:1858
+----------------
+Shyann(F), born:1934
+--f : Mason(M), born:1897
+--f--m : Jasmyn(F), born:1878
+--f--m--m : Lizbeth(F), born:1860
+--f--f : Arthur(M), born:1880
+----------------
+Ricky(M), born:1952
+--m : Citlali(F), born:1923
+--m--m : Bryanna(F), born:1900
+--m--f : Andy(M), born:1899
+--f : Edwin(M), born:1924
+--f--m : Maegan(F), born:1896
+--f--f : Stanley(M), born:1899
+--f--f--f : Elisha(M), born:1870
+----------------
+Janiya(F), born:1892
+--m : Vanessa(F), born:1868
+----------------
+Brooks(M), born:1939
+--m : Layla(F), born:1907
+--f : Spencer(M), born:1912
+----------------
+Taya(F), born:1945
+--m : Mollie(F), born:1918
+--m--m : Damaris(F), born:1898
+--m--f : Blaise(M), born:1895
+--f : Albert(M), born:1914
+----------------
+Irvin(M), born:1857
+--f : Tyler(M), born:1820
+----------------
+Jaylyn(F), born:1900
+--f : Darwin(M), born:1882
+--f--m : Gloria(F), born:1858
+--f--m--m : Melissa(F), born:1835
+----------------
+Trevon(M), born:1910
+--m : Stephany(F), born:1886
+--m--m : Charlotte(F), born:1853
+--m--m--m : Julianna(F), born:1832
+--m--m--m--f : Darrell(M), born:1813
+--m--m--f : Randall(M), born:1832
+--m--m--f--m : Ayanna(F), born:1807
+--m--f : Gabriel(M), born:1850
+--m--f--m : Amy(F), born:1826
+----------------
+Braeden(M), born:1882
+--f : Jordon(M), born:1855
+----------------
+Sincere(M), born:1935
+--m : Arely(F), born:1911
+----------------
+Jacqueline(F), born:1887
+--f : Cason(M), born:1848
+----------------
+Juan(M), born:1906
+--f : Raymundo(M), born:1884
+----------------
+Cheyenne(F), born:1959
+--m : Julia(F), born:1931
+--m--m : Rebecca(F), born:1904
+----------------
+Mina(F), born:1937
+--m : Danna(F), born:1908
+--f : Jovan(M), born:1913
+--f--m : Julie(F), born:1893
+--f--f : Trever(M), born:1892
+----------------
+Roxana(F), born:1881
+--f : Treyton(M), born:1845
+--f--m : Hannah(F), born:1816
+--f--m--m : Estefani(F), born:1796
+--f--m--m--m : Yolanda(F), born:1774
+--f--m--m--f : Jasper(M), born:1778
+--f--m--f : Kieran(M), born:1794
+----------------
+Makaila(F), born:1915
+--m : Teagan(F), born:1890
+--m--m : Isabelle(F), born:1863
+--m--m--m : Elisabeth(F), born:1841
+--m--m--m--f : Xavier(M), born:1820
+--m--m--f : Rene(M), born:1842
+--m--m--f--f : Jovani(M), born:1821
+--m--m--f--f--f : Conner(M), born:1796
+----------------
+Herbert(M), born:1953
+--m : Ellen(F), born:1933
+--f : Dimitri(M), born:1933
+----------------
+Zackary(M), born:1922
+--m : Makenzie(F), born:1900
+--f : Mohammad(M), born:1901
+----------------
+Tristin(M), born:1887
+--m : Evelyn(F), born:1851
+--f : Adrien(M), born:1854
+----------------
+Bruno(M), born:1919
+--f : Vicente(M), born:1891
+--f--m : Isabell(F), born:1873
+----------------
+Megan(F), born:1877
+--m : Desirae(F), born:1847
+----------------
+Humberto(M), born:1871
+--m : Veronica(F), born:1853
+----------------
+Jevon(M), born:1952
+--f : Grady(M), born:1935
+----------------
+Landon(M), born:1877
+--f : Curtis(M), born:1849
+----------------
+Clifton(M), born:1811
+--f : German(M), born:1777
+----------------
+Jade(F), born:1936
+--m : Daniela(F), born:1907
+--m--f : Terrence(M), born:1883
+--m--f--m : Rayna(F), born:1856
+--m--f--f : Marcos(M), born:1856
+--f : Reynaldo(M), born:1909
+--f--m : Alia(F), born:1891
+--f--m--f : Leonardo(M), born:1868
+--f--f : Tariq(M), born:1887
+--f--f--m : Marianna(F), born:1851
+--f--f--f : Andre(M), born:1852
+----------------
+Levi(M), born:1865
+--m : Katelin(F), born:1837
+--m--m : Rianna(F), born:1813
+--m--f : Bryson(M), born:1812
+--m--f--m : Jakayla(F), born:1787
+--m--f--f : Max(M), born:1783
+----------------
+Lorena(F), born:2006
+--f : Colin(M), born:1982
+--f--m : Jacey(F), born:1957
+--f--m--f : Ahmed(M), born:1930
+--f--m--f--m : Ashley(F), born:1908
+--f--m--f--m--m : Aniya(F), born:1885
+--f--m--f--m--m--m : Maryam(F), born:1864
+--f--m--f--m--m--m--f : Travon(M), born:1846
+--f--m--f--m--m--m--f--m : Loren(F), born:1821
+----------------
+Alanis(F), born:1921
+--m : Alanna(F), born:1898
+--m--m : Christine(F), born:1858
+--m--m--f : Manuel(M), born:1837
+--m--m--f--f : Adan(M), born:1814
+--m--m--f--f--m : Mikayla(F), born:1787
+--m--m--f--f--f : Trevin(M), born:1791
+--m--m--f--f--f--m : Hana(F), born:1769
+--m--f : Victor(M), born:1862
+--m--f--m : Nina(F), born:1835
+--f : Avery(M), born:1893
+--f--m : Cierra(F), born:1874
+--f--m--m : Sasha(F), born:1852
+--f--m--f : Benny(M), born:1850
+--f--m--f--f : Clayton(M), born:1817
+--f--m--f--f--m : Haley(F), born:1792
+--f--m--f--f--m--f : Blaine(M), born:1775
+--f--m--f--f--m--f--m : Marie(F), born:1748
+--f--m--f--f--f : Keyon(M), born:1787
+--f--m--f--f--f--f : Myles(M), born:1766
+--f--f : Kennedy(M), born:1873
+--f--f--m : Fernanda(F), born:1852
+--f--f--m--m : Alivia(F), born:1832
+--f--f--m--m--m : Leah(F), born:1803
+--f--f--m--m--m--f : German(M), born:1777
+--f--f--m--m--f : Alonzo(M), born:1802
+--f--f--m--f : Darnell(M), born:1832
+----------------
+Orion(M), born:1925
+--m : Skyla(F), born:1901
+--f : Kody(M), born:1896
+--f--f : Anton(M), born:1875
+----------------
+Joana(F), born:1983
+--m : Jacey(F), born:1957
+--m--f : Ahmed(M), born:1930
+--m--f--m : Ashley(F), born:1908
+--m--f--m--m : Aniya(F), born:1885
+--m--f--m--m--m : Maryam(F), born:1864
+--m--f--m--m--m--f : Travon(M), born:1846
+--m--f--m--m--m--f--m : Loren(F), born:1821
+----------------
+Jewel(F), born:1937
+--m : Melinda(F), born:1906
+--f : Jacob(M), born:1903
+----------------
+Georgia(F), born:1923
+--f : Justin(M), born:1897
+--f--f : Brennen(M), born:1867
+----------------
+Jamie(F), born:1879
+--m : Desirae(F), born:1847
+----------------
+Abel(M), born:1900
+--f : Devonte(M), born:1878
+----------------
+Priscila(F), born:1916
+--m : Kathy(F), born:1897
+--f : Darrin(M), born:1895
+----------------
+Zoey(F), born:1927
+--m : Bailey(F), born:1907
+--m--m : Dulce(F), born:1874
+--m--m--f : Tristen(M), born:1849
+--m--m--f--m : Mikaela(F), born:1813
+--m--m--f--m--m : Gina(F), born:1788
+--m--m--f--m--f : Isaias(M), born:1790
+--f : Aditya(M), born:1907
+----------------
+Kendall(F), born:1944
+--m : Abbigail(F), born:1922
+----------------
+Hudson(M), born:1957
+--m : Francesca(F), born:1936
+--f : Carlo(M), born:1939
+--f--m : Fiona(F), born:1907
+--f--f : Reece(M), born:1907
+----------------
+Kale(M), born:1960
+--m : Noelia(F), born:1941
+--m--m : Deasia(F), born:1914
+--m--m--f : Brendon(M), born:1887
+--m--m--f--m : Alejandra(F), born:1854
+--m--m--f--f : Joel(M), born:1854
+--m--m--f--f--m : Katie(F), born:1827
+----------------
+Louis(M), born:1917
+--f : Jonathon(M), born:1899
+----------------
+Kathleen(F), born:1916
+--m : Talia(F), born:1889
+----------------
+Aisha(F), born:1910
+--m : Anna(F), born:1883
+--f : Kyler(M), born:1879
+--f--f : Toby(M), born:1858
+----------------
+Tori(F), born:1917
+--m : Alexus(F), born:1884
+--m--m : Patricia(F), born:1860
+----------------
+Michaela(F), born:1910
+--m : Kaylyn(F), born:1885
+--m--m : Alma(F), born:1861
+--f : Cade(M), born:1885
+----------------
+Carmen(F), born:1960
+--m : Dalia(F), born:1934
+--f : Maximus(M), born:1935
+--f--m : Cora(F), born:1895
+--f--f : Jamari(M), born:1894
+--f--f--m : Jayden(F), born:1872
+----------------
+Joanna(F), born:1864
+--f : Tyler(M), born:1820
+----------------
+Gage(M), born:1909
+--m : Brooke(F), born:1874
+--f : Brycen(M), born:1872
+--f--f : Leonard(M), born:1847
+----------------
+Ezequiel(M), born:1938
+--f : Jaylen(M), born:1913
+--f--m : Hope(F), born:1890
+--f--m--m : Jazlyn(F), born:1865
+--f--m--m--m : Anais(F), born:1841
+--f--m--m--m--m : Keira(F), born:1818
+--f--m--m--m--f : Daquan(M), born:1818
+--f--m--m--m--f--m : Kaya(F), born:1793
+--f--m--m--m--f--m--f : Lamont(M), born:1766
+--f--m--m--m--f--f : Darion(M), born:1790
+----------------
+Lonnie(M), born:1946
+--m : Aimee(F), born:1924
+----------------
+Asa(M), born:1919
+--m : Danielle(F), born:1900
+--f : Stefan(M), born:1895
+--f--m : Scarlett(F), born:1866
+--f--m--f : Nathan(M), born:1844
+----------------
+Miles(M), born:1933
+--f : Gian(M), born:1909
+--f--f : Deven(M), born:1887
+--f--f--f : Byron(M), born:1861
+----------------
+Cruz(M), born:1929
+--m : Shyanne(F), born:1907
+--m--m : Alycia(F), born:1879
+--f : Kamron(M), born:1901
+----------------
+Alina(F), born:1964
+--f : Jadon(M), born:1943
+--f--m : Hunter(F), born:1921
+----------------
+Madalyn(F), born:1865
+--m : Jasmin(F), born:1836
+--m--f : Kolby(M), born:1813
+--m--f--f : Jayson(M), born:1787
+--m--f--f--m : Tamia(F), born:1762
+--m--f--f--m--m : Audrey(F), born:1743
+--m--f--f--m--f : Peter(M), born:1744
+--f : Ayden(M), born:1835
+--f--f : Drew(M), born:1818
+--f--f--m : Lisa(F), born:1776
+--f--f--m--f : Norman(M), born:1750
+----------------
+Makena(F), born:1871
+--f : Nathan(M), born:1844
+----------------
+Nia(F), born:1934
+--m : Allyson(F), born:1908
+--m--m : Nicolette(F), born:1883
+--f : Mike(M), born:1914
+----------------
+Maxim(M), born:1877
+--m : Aubrie(F), born:1847
+----------------
+Breanna(F), born:1936
+--m : Princess(F), born:1912
+--m--m : Kennedi(F), born:1878
+--m--f : Isiah(M), born:1880
+----------------
+Lana(F), born:1917
+--m : Stephany(F), born:1886
+--m--m : Charlotte(F), born:1853
+--m--m--m : Julianna(F), born:1832
+--m--m--m--f : Darrell(M), born:1813
+--m--m--f : Randall(M), born:1832
+--m--m--f--m : Ayanna(F), born:1807
+--m--f : Gabriel(M), born:1850
+--m--f--m : Amy(F), born:1826
+----------------
+Rebeca(F), born:1952
+--f : Bobby(M), born:1925
+--f--m : Krystal(F), born:1898
+--f--m--m : Kendra(F), born:1877
+--f--m--m--m : Marisa(F), born:1854
+--f--m--m--m--m : Tracy(F), born:1832
+--f--m--m--f : Dillon(M), born:1852
+--f--m--m--f--m : Katlyn(F), born:1835
+--f--m--m--f--m--f : Moses(M), born:1813
+--f--m--f : Gilbert(M), born:1881
+----------------
+Jordy(M), born:1917
+--f : Derrick(M), born:1896
+----------------
+Mitchell(M), born:1919
+--f : Jalen(M), born:1894
+----------------
+Destini(F), born:1898
+--m : Marisol(F), born:1869
+----------------
+Elaina(F), born:1938
+--f : Marcelo(M), born:1916
+----------------
+Marcel(M), born:1808
+--m : Marina(F), born:1781
+----------------
+Aubree(F), born:1943
+--m : Lesley(F), born:1925
+--f : Semaj(M), born:1927
+--f--m : Makenzie(F), born:1900
+--f--f : Mohammad(M), born:1901
+----------------
+Efrain(M), born:1880
+--f : Toby(M), born:1858
+----------------
+Elizabeth(F), born:1923
+--m : Yuliana(F), born:1901
+--f : Gustavo(M), born:1902
+----------------
+Brice(M), born:1936
+--m : Lila(F), born:1905
+--m--m : Jaclyn(F), born:1873
+--m--m--m : Maleah(F), born:1857
+----------------
+Malcolm(M), born:1879
+--m : Makenna(F), born:1845
+--f : Jose(M), born:1845
+----------------
+Braden(M), born:1912
+--m : Aniya(F), born:1885
+--m--m : Maryam(F), born:1864
+--m--m--f : Travon(M), born:1846
+--m--m--f--m : Loren(F), born:1821
+----------------
+Belen(F), born:1930
+--m : Rebecca(F), born:1904
+----------------
+Gillian(F), born:1895
+--m : Dulce(F), born:1874
+--m--f : Tristen(M), born:1849
+--m--f--m : Mikaela(F), born:1813
+--m--f--m--m : Gina(F), born:1788
+--m--f--m--f : Isaias(M), born:1790
+----------------
+Chance(M), born:1952
+--m : Shania(F), born:1930
+----------------
+Kalyn(F), born:1915
+--m : Talia(F), born:1889
+----------------
+Ashton(M), born:1933
+--m : Kayley(F), born:1910
+--f : Darien(M), born:1907
+--f--m : Jayla(F), born:1883
+--f--f : Elvin(M), born:1882
+--f--f--f : Walter(M), born:1859
+--f--f--f--m : Kaylie(F), born:1842
+--f--f--f--f : Emanuel(M), born:1838
+----------------
+Savannah(F), born:1957
+--f : Jon(M), born:1939
+--f--m : Sandy(F), born:1918
+----------------
+Caitlin(F), born:1951
+--f : Bradley(M), born:1928
+----------------
+Ariel(M), born:1893
+--m : Alma(F), born:1861
+----------------
+Matthew(M), born:1860
+--m : Alivia(F), born:1832
+--m--m : Leah(F), born:1803
+--m--m--f : German(M), born:1777
+--m--f : Alonzo(M), born:1802
+--f : Darnell(M), born:1832
+----------------
+Sebastian(M), born:1865
+--m : Destiney(F), born:1839
+--f : Ivan(M), born:1839
+----------------
+Martha(F), born:1868
+--m : Jasmin(F), born:1836
+--m--f : Kolby(M), born:1813
+--m--f--f : Jayson(M), born:1787
+--m--f--f--m : Tamia(F), born:1762
+--m--f--f--m--m : Audrey(F), born:1743
+--m--f--f--m--f : Peter(M), born:1744
+--f : Ayden(M), born:1835
+--f--f : Drew(M), born:1818
+--f--f--m : Lisa(F), born:1776
+--f--f--m--f : Norman(M), born:1750
+----------------
+Esther(F), born:1907
+--m : Reanna(F), born:1871
+--m--m : Desirae(F), born:1847
+--f : Tristan(M), born:1873
+----------------
+Brayan(M), born:1917
+--m : Anahi(F), born:1891
+----------------
+Cassandra(F), born:1938
+--m : Luz(F), born:1900
+--m--m : Kendra(F), born:1877
+--m--m--m : Marisa(F), born:1854
+--m--m--m--m : Tracy(F), born:1832
+--m--m--f : Dillon(M), born:1852
+--m--m--f--m : Katlyn(F), born:1835
+--m--m--f--m--f : Moses(M), born:1813
+--m--f : Gilbert(M), born:1881
+--f : Davin(M), born:1903
+--f--m : Kayla(F), born:1880
+--f--m--f : Hassan(M), born:1841
+--f--m--f--m : Annalise(F), born:1815
+--f--f : Alvin(M), born:1874
+--f--f--m : Araceli(F), born:1857
+----------------
+Sidney(F), born:1838
+--m : Loren(F), born:1821
+----------------
+Valeria(F), born:1908
+--m : Carly(F), born:1888
+--m--f : Brodie(M), born:1863
+--f : August(M), born:1887
+----------------
+Jarvis(M), born:1940
+--m : Kelsie(F), born:1915
+--f : Jessie(M), born:1912
+--f--m : Nyasia(F), born:1890
+----------------
+Owen(M), born:1964
+--m : Julia(F), born:1931
+--m--m : Rebecca(F), born:1904
+----------------
+Gino(M), born:1949
+--m : Aiyana(F), born:1930
+--m--f : Trent(M), born:1890
+--m--f--f : Garett(M), born:1867
+----------------
+Johanna(F), born:1868
+--m : Makenna(F), born:1845
+--f : Jose(M), born:1845
+----------------
+Josef(M), born:1947
+--m : Sally(F), born:1926
+--m--m : Adriana(F), born:1896
+--m--m--m : Madeline(F), born:1873
+--m--m--f : Wesley(M), born:1870
+--m--f : Aidan(M), born:1897
+----------------
+Abbey(F), born:1920
+--m : Marcella(F), born:1890
+----------------
+Aniyah(F), born:1902
+--m : Alice(F), born:1875
+--m--f : Bo(M), born:1852
+--m--f--f : Dustin(M), born:1831
+--m--f--f--m : Paola(F), born:1790
+--f : Rocco(M), born:1873
+----------------
+Draven(M), born:1915
+--m : Baylee(F), born:1888
+----------------
+Fabiola(F), born:1919
+--m : Baylee(F), born:1888
+----------------
+Celia(F), born:1916
+--m : Jimena(F), born:1888
+----------------
+Leilani(F), born:1930
+--f : Trent(M), born:1890
+--f--f : Garett(M), born:1867
+----------------
+Nyah(F), born:1940
+--f : Lance(M), born:1914
+--f--m : Adriana(F), born:1896
+--f--m--m : Madeline(F), born:1873
+--f--m--f : Wesley(M), born:1870
+--f--f : Aidan(M), born:1897
+----------------
+Aliya(F), born:1933
+--f : Andrew(M), born:1911
+----------------
+Travis(M), born:1940
+--m : Hunter(F), born:1921
+----------------
+Daniel(M), born:1925
+--m : Caitlyn(F), born:1903
+--m--m : Kelli(F), born:1877
+--m--m--m : Charlotte(F), born:1853
+--m--m--m--m : Julianna(F), born:1832
+--m--m--m--m--f : Darrell(M), born:1813
+--m--m--m--f : Randall(M), born:1832
+--m--m--m--f--m : Ayanna(F), born:1807
+--m--m--f : Gabriel(M), born:1850
+--m--m--f--m : Amy(F), born:1826
+--f : Glen(M), born:1898
+----------------
+Zachary(M), born:1894
+--m : Kaia(F), born:1868
+----------------
+Adrienne(F), born:1938
+--m : Ryleigh(F), born:1915
+--m--f : Zachery(M), born:1888
+--f : Austyn(M), born:1918
+----------------
+Hailee(F), born:1906
+--m : Alycia(F), born:1879
+----------------
+Alexia(F), born:1962
+--m : Nichole(F), born:1929
+--f : Rogelio(M), born:1934
+----------------
+Dennis(M), born:1900
+--m : Daniella(F), born:1871
+--f : Logan(M), born:1871
+----------------
+Carter(M), born:1900
+--m : Marisol(F), born:1869
+----------------
+Emmalee(F), born:1913
+--m : Emilee(F), born:1884
+--f : Terry(M), born:1882
+--f--f : Alexzander(M), born:1863
+----------------
+Elaine(F), born:1947
+--f : Jarrett(M), born:1916
+--f--m : Ebony(F), born:1888
+--f--f : Donald(M), born:1888
+----------------
+Quinton(M), born:1923
+--f : Heriberto(M), born:1900
+----------------
+Sonia(F), born:1958
+--m : Arianna(F), born:1941
+--m--f : Lucas(M), born:1900
+--m--f--m : Kailey(F), born:1873
+--m--f--f : Cameron(M), born:1876
+----------------
+Nicholas(M), born:1951
+--m : Lena(F), born:1923
+--f : Philip(M), born:1923
+--f--f : Jagger(M), born:1895
+--f--f--m : Brooke(F), born:1874
+--f--f--f : Brycen(M), born:1872
+--f--f--f--f : Leonard(M), born:1847
+----------------
+Austen(M), born:1932
+--f : Tyshawn(M), born:1897
+----------------
+Salvatore(M), born:1910
+--m : Jillian(F), born:1880
+--f : Vance(M), born:1881
+----------------
+Simone(F), born:1911
+--m : Ebony(F), born:1888
+--f : Donald(M), born:1888
+----------------
+Sylvia(F), born:1941
+--m : Lindsey(F), born:1922
+----------------
+Alden(M), born:1886
+--m : Christine(F), born:1858
+--m--f : Manuel(M), born:1837
+--m--f--f : Adan(M), born:1814
+--m--f--f--m : Mikayla(F), born:1787
+--m--f--f--f : Trevin(M), born:1791
+--m--f--f--f--m : Hana(F), born:1769
+--f : Victor(M), born:1862
+--f--m : Nina(F), born:1835
+----------------
+Kaleb(M), born:1826
+--m : Saige(F), born:1780
+----------------
+Kameron(M), born:1898
+--f : Mohamed(M), born:1871
+----------------
+Aden(M), born:1896
+--m : Aubrey(F), born:1868
+----------------
+Iliana(F), born:1881
+--m : Alondra(F), born:1860
+--f : Ruben(M), born:1859
+----------------
+Nathalie(F), born:1904
+--f : Mohamed(M), born:1871
+----------------
+Sonny(M), born:1887
+--m : Kacie(F), born:1854
+--f : Rory(M), born:1854
+----------------
+Julius(M), born:1889
+--f : Dorian(M), born:1861
+----------------
+Arnold(M), born:1911
+--m : Isabela(F), born:1890
+--f : Harrison(M), born:1890
+----------------
+Ashlynn(F), born:1945
+--m : Penelope(F), born:1926
+--m--m : Alissa(F), born:1905
+--m--f : Clarence(M), born:1905
+--m--f--f : David(M), born:1880
+--f : Eliseo(M), born:1921
+--f--m : Cora(F), born:1895
+--f--f : Jamari(M), born:1894
+--f--f--m : Jayden(F), born:1872
+----------------
+Edward(M), born:1926
+--m : Noelle(F), born:1901
+--m--m : Reanna(F), born:1871
+--m--m--m : Desirae(F), born:1847
+--m--f : Tristan(M), born:1873
+--f : Blaze(M), born:1903
+--f--m : Dakota(F), born:1875
+--f--m--m : Jaylynn(F), born:1847
+--f--m--m--f : Cyrus(M), born:1824
+----------------
+Casandra(F), born:1917
+--f : Darin(M), born:1880
+----------------
+Jeffery(M), born:1838
+--f : Clayton(M), born:1817
+--f--m : Haley(F), born:1792
+--f--m--f : Blaine(M), born:1775
+--f--m--f--m : Marie(F), born:1748
+--f--f : Keyon(M), born:1787
+--f--f--f : Myles(M), born:1766
+----------------
+Graham(M), born:1918
+--f : Ray(M), born:1891
+----------------
+Dexter(M), born:1837
+--m : Meredith(F), born:1805
+--m--m : Kathryn(F), born:1783
+--m--f : Alfred(M), born:1782
+--m--f--m : Janie(F), born:1762
+----------------
+Dianna(F), born:1906
+--m : Christy(F), born:1885
+----------------
+Camron(M), born:1890
+--f : Rodolfo(M), born:1865
+----------------
+Nyla(F), born:1883
+--m : Nadia(F), born:1848
+--m--f : Dwayne(M), born:1822
+----------------
+Melvin(M), born:1947
+--f : Tristian(M), born:1922
+--f--m : Ryann(F), born:1905
+--f--f : Warren(M), born:1906
+----------------
+Rohan(M), born:1895
+--m : Laurel(F), born:1873
+--f : Omari(M), born:1876
+----------------
+Maritza(F), born:1894
+--m : Daniella(F), born:1871
+--f : Logan(M), born:1871
+----------------
+Jaydon(M), born:1911
+--m : Shayla(F), born:1883
+----------------
+Osbaldo(M), born:1959
+--m : Francesca(F), born:1936
+--f : Carlo(M), born:1939
+--f--m : Fiona(F), born:1907
+--f--f : Reece(M), born:1907
+----------------
+Adolfo(M), born:1961
+--f : Omar(M), born:1933
+--f--m : Chelsey(F), born:1902
+----------------
+Kareem(M), born:1883
+--f : Gael(M), born:1857
+--f--f : Sean(M), born:1832
+----------------
+Felicia(F), born:1928
+--m : Alissa(F), born:1905
+--f : Clarence(M), born:1905
+--f--f : David(M), born:1880
+----------------
+Virginia(F), born:1932
+--f : Randy(M), born:1910
+--f--m : Frances(F), born:1889
+--f--m--m : Candice(F), born:1862
+--f--f : Oswaldo(M), born:1891
+----------------
+Sarahi(F), born:1832
+--f : Maurice(M), born:1800
+----------------
+Allie(F), born:1956
+--m : Nichole(F), born:1929
+--f : Rogelio(M), born:1934
+----------------
+Clay(M), born:1872
+--m : Alejandra(F), born:1854
+--f : Joel(M), born:1854
+--f--m : Katie(F), born:1827
+----------------
+Freddie(M), born:1900
+--m : Dakota(F), born:1875
+--m--m : Jaylynn(F), born:1847
+--m--m--f : Cyrus(M), born:1824
+----------------
+Susan(F), born:1852
+--m : Astrid(F), born:1825
+--m--m : Yasmine(F), born:1804
+--m--m--f : Grant(M), born:1779
+----------------
+Rylan(M), born:1897
+--f : Marc(M), born:1873
+----------------
+Zoie(F), born:1929
+--m : Chelsey(F), born:1902
+----------------
+Izaiah(M), born:1929
+--m : Cali(F), born:1906
+--m--m : Lilliana(F), born:1878
+--m--m--m : Kaylah(F), born:1860
+--m--m--m--m : Juliette(F), born:1816
+--m--m--m--m--m : Perla(F), born:1794
+--m--m--m--m--m--m : Meghan(F), born:1773
+--m--m--m--m--m--f : Yadiel(M), born:1774
+--m--m--m--m--f : Griffin(M), born:1792
+--m--m--m--f : Jean(M), born:1814
+--m--m--f : Zain(M), born:1860
+--m--m--f--m : Piper(F), born:1837
+--m--m--f--f : Darren(M), born:1838
+--m--m--f--f--m : Ashlee(F), born:1809
+--m--m--f--f--f : Nicolas(M), born:1808
+----------------
+Chris(M), born:1890
+--f : Jordon(M), born:1855
+----------------
+Nya(F), born:1924
+--f : Mason(M), born:1897
+--f--m : Jasmyn(F), born:1878
+--f--m--m : Lizbeth(F), born:1860
+--f--f : Arthur(M), born:1880
+----------------
+Ean(M), born:1908
+--f : Camren(M), born:1880
+----------------
+Mateo(M), born:1934
+--m : Emilie(F), born:1913
+--m--f : Devonte(M), born:1878
+----------------
+Amina(F), born:1953
+--m : Shania(F), born:1930
+----------------
+Caiden(M), born:1936
+--f : Mikel(M), born:1906
+----------------
+Paxton(M), born:1907
+--m : Adeline(F), born:1888
+--m--m : Lyndsey(F), born:1869
+--m--f : Dallin(M), born:1865
+----------------
+Kyree(M), born:1900
+--f : Walter(M), born:1859
+--f--m : Kaylie(F), born:1842
+--f--f : Emanuel(M), born:1838
+----------------
+Kylee(F), born:1949
+--m : Aiyana(F), born:1930
+--m--f : Trent(M), born:1890
+--m--f--f : Garett(M), born:1867
+----------------
+Quincy(M), born:1881
+--m : Zoe(F), born:1863
+----------------
+Stephen(M), born:1878
+--m : Marianna(F), born:1851
+--f : Andre(M), born:1852
+----------------
+Ayla(F), born:1958
+--f : Omar(M), born:1933
+--f--m : Chelsey(F), born:1902
+----------------
+Emerson(M), born:1921
+--m : Kate(F), born:1896
+--f : Troy(M), born:1903
+----------------
+Kole(M), born:1929
+--f : Howard(M), born:1901
+----------------
+Whitney(F), born:1946
+--m : Parker(F), born:1923
+--m--f : Caleb(M), born:1877
+--m--f--f : Cason(M), born:1848
+--f : Douglas(M), born:1925
+----------------
+Anika(F), born:1888
+--m : Maleah(F), born:1857
+----------------
+Elissa(F), born:1937
+--f : Yosef(M), born:1913
+--f--f : Mauricio(M), born:1890
+--f--f--m : Kaia(F), born:1868
+----------------
+Valentina(F), born:1936
+--m : Allyson(F), born:1908
+--m--m : Nicolette(F), born:1883
+--f : Mike(M), born:1914
+----------------
+Essence(F), born:1932
+--m : Layla(F), born:1907
+--f : Spencer(M), born:1912
+----------------
+Jeremy(M), born:1971
+--f : Joan(M), born:1944
+--f--f : Anthony(M), born:1916
+----------------
+Braulio(M), born:1899
+--f : Emmanuel(M), born:1882
+--f--f : Toby(M), born:1858
+----------------
+Kayli(F), born:1902
+--m : Kelli(F), born:1877
+--m--m : Charlotte(F), born:1853
+--m--m--m : Julianna(F), born:1832
+--m--m--m--f : Darrell(M), born:1813
+--m--m--f : Randall(M), born:1832
+--m--m--f--m : Ayanna(F), born:1807
+--m--f : Gabriel(M), born:1850
+--m--f--m : Amy(F), born:1826
+----------------
+Laney(F), born:1901
+--m : Kelsey(F), born:1878
+--f : Bryant(M), born:1878
+----------------
+Dominick(M), born:1842
+--m : Ashlee(F), born:1809
+--f : Nicolas(M), born:1808
+----------------
+Deon(M), born:1910
+--m : Kasey(F), born:1884
+--m--m : Tia(F), born:1863
+--m--m--f : Kenneth(M), born:1829
+--m--m--f--f : Maurice(M), born:1800
+--f : Devin(M), born:1883
+--f--m : Tia(F), born:1863
+--f--m--f : Kenneth(M), born:1829
+--f--m--f--f : Maurice(M), born:1800
+----------------
+Janae(F), born:1845
+--m : Astrid(F), born:1825
+--m--m : Yasmine(F), born:1804
+--m--m--f : Grant(M), born:1779
+----------------
+Maia(F), born:1836
+--m : Mikaela(F), born:1813
+--m--m : Gina(F), born:1788
+--m--f : Isaias(M), born:1790
+----------------
+Camryn(F), born:1911
+--m : Haleigh(F), born:1889
+----------------
+Jaime(M), born:1919
+--f : Jonathon(M), born:1899
+----------------
+Shea(F), born:1941
+--m : Kelsie(F), born:1915
+--f : Jessie(M), born:1912
+--f--m : Nyasia(F), born:1890
+----------------
+Rashad(M), born:1930
+--f : Braiden(M), born:1903
+--f--f : Ahmad(M), born:1880
+----------------
+Anastasia(F), born:1912
+--f : Clark(M), born:1869
+----------------
+Malik(M), born:1887
+--m : Alma(F), born:1861
+----------------
+Drake(M), born:1948
+--f : Patrick(M), born:1919
+--f--f : Xander(M), born:1900
+--f--f--m : Tia(F), born:1863
+--f--f--m--f : Kenneth(M), born:1829
+--f--f--m--f--f : Maurice(M), born:1800
+----------------
+Jasmine(F), born:1901
+--f : Issac(M), born:1870
+----------------
+Macie(F), born:1941
+--f : Chase(M), born:1918
+--f--f : Vicente(M), born:1891
+--f--f--m : Isabell(F), born:1873
+----------------
+Maya(F), born:1949
+--f : Kane(M), born:1924
+--f--m : Katharine(F), born:1897
+----------------
+Isai(M), born:1869
+--f : Travon(M), born:1846
+--f--m : Loren(F), born:1821
+----------------
+Carolina(F), born:1902
+--f : Camren(M), born:1880
+----------------
+Kaliyah(F), born:1937
+--f : Porter(M), born:1917
+--f--m : Emely(F), born:1894
+--f--m--m : Alondra(F), born:1860
+--f--m--f : Ruben(M), born:1859
+----------------
+Sage(F), born:1933
+--f : Howard(M), born:1901
+----------------
+Josue(M), born:1923
+--m : Marcella(F), born:1890
+----------------
+Anya(F), born:1784
+--m : Janie(F), born:1762
+----------------
+Gabriella(F), born:1898
+--f : Wade(M), born:1874
+----------------
+Terrance(M), born:1912
+--m : Amira(F), born:1883
+--m--f : Eddy(M), born:1860

@@ -1,0 +1,25 @@
+COMP 102  Assignment 6
+Name:
+ID:
+
+
+Questions for Reflection: 
+=========================
+
+
+1. For the FrogGame class, you had to choose fields to store the states of the
+frogs and the cars. There are several reasonable choices for this, not just the
+suggested one. What other choices could you have made? What would the
+consequences of your choice be when you came to write the methods - what would
+be easier the suggested way, and what would be easier the other way? 
+
+
+2. For MiniPaint, you had to work out how to make event-driven input work. What
+was difficult? Was it more difficult than the previous programs? If so, in what
+way?
+
+3. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last assignment, fixing up any of the descriptions if you have a
+better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them. 

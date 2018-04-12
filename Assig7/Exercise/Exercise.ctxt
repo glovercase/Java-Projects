@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=void\ cartoonCrowd(java.lang.String)
+comment0.text=\ Parameter\ is\ the\ name\ of\ a\ file.\n\ \ \ \ Reads\ a\ file\ specifying\ a\ collection\ of\ cartoonFigures,\n\ \ \ \ First\ line\ contains\ the\ number\ of\ CartoonFigures;\n\ \ \ \ Remaining\ lines\ each\ contain\ a\ string\ and\ an\ x\ and\ y\ value.\n\ \ \ \ Should\ read\ the\ number\ on\ the\ first\ line\ and\ create\ an\ array\ of\ that\ size.\n\ \ \ \ Using\ a\ for\ loop\ running\ through\ each\ index\ of\ the\ array\ (from\ 0),\n\ \ \ \ it\ should\ repeatedly\n\ \ \ \ read\ the\ three\ values\ on\ a\ line\n\ \ \ \ create\ a\ new\ CartoonFigure\ with\ those\ values\n\ \ \ \ store\ the\ CartoonFigure\ in\ the\ next\ place\ in\ the\ array\n\ \ \ \ It\ should\ then\ \n\ \ \ \ make\ each\ cartoonFigure\ look\ left\ and\ frown,\ \n\ \ \ \ then\ make\ each\ cartoonFigure\ walk\ forward\ 40\ units\n
+comment1.params=
+comment1.target=void\ plotNumbers()
+comment1.text=\ Reads\ a\ sequence\ of\ numbers\ from\ the\ file\ "numbers.txt"\ into\ an\ ArrayList\n\ \ \ \ keeping\ track\ of\ how\ many\ numbers\ have\ been\ read.\n\ \ \ \ Finds\ the\ number\ half\ way\ through\ the\ sequence\ of\ numbers\n\ \ \ \ [if\ the\ size\ of\ the\ list\ is\ s,\ the\ middle\ number\ is\ at\ index\ (s-1)/2\ ]\n\ \ \ \ Then\ plots\ the\ numbers\ as\ a\ sequence\ of\ rectangles\ hanging\ from\ the\ top\n\ \ \ \ of\ the\ graphics\ pane,\ width\ \=\ 5,\ height\ \=\ the\ number\ being\ plotted,\n\ \ \ \ The\ color\ is\n\ \ \ \ green\ if\ the\ number\ is\ less\ than\ the\ middle\ number,\n\ \ \ \ black\ if\ it\ is\ equal\ to\ the\ middle\ number,\ \n\ \ \ \ red\ otherwise.\n
+comment2.params=
+comment2.target=void\ readAndReverse()
+comment2.text=\ Asks\ the\ user\ for\ a\ file,\ and\ reads\ each\ token\ from\ the\ file,\ storing\n\ \ \ \ them\ in\ an\ ArrayList.\n\ \ \ \ It\ prints\ out\ the\ number\ of\ tokens\ it\ read\ and\ then\n\ \ \ \ prints\ the\ tokens\ in\ reverse\ order.\n
+comment3.params=
+comment3.target=void\ sentenceGame()
+comment3.text=\ Sentence\ Game\:\n\ Constructs\ an\ array\ of\ words,\n\ User\ has\ to\ incrementally\ reorder\ words\ into\ a\ sentence\:\n\ The\ method\ repeatedly\n\ \ -\ prints\ the\ words\ out\ on\ one\ line\ (using\ a\ loop\ to\ print\ each\ word\ in\ turn)\n\ \ -\ ask\ the\ user\ for\ the\ index\ of\ a\ word\ to\ move\ to\ the\ left.\n\ \ -\ breaks\ out\ of\ the\ loop\ if\ the\ user\ enters\ 0\n\ \ -\ swap\ the\ word\ at\ that\ index\ with\ the\ word\ at\ the\ previous\ index\n
+comment4.params=
+comment4.target=void\ duckGame()
+comment4.text=\n\ Simple\ duck\ shooting\ game\n\ \ Uses\ the\ Duck\ class,\ which\ has\ a\ constructor\ and\ two\ methods\:\n\ \ \ -\ To\ construct\ a\ duck,\ specify\ its\ horizontal\ position\:\ eg\ new\ Duck(100);\n\ \ \ -\ shuffle()\ makes\ the\ duck\ move\ across\ the\ screen\ to\ the\ left\n\ \ \ -\ shoot()\ turns\ it\ upside\ down.\ You\ can't\ shuffle\ a\ duck\ after\ you\ have\ shot\ it.\n\ \n\ The\ duckGame\ method\ should\n\ -\ Construct\ an\ array\ to\ hold\ 5\ Ducks,\n\ -\ Fill\ the\ array\ with\ Ducks\ placed\ across\ the\ screen\ (at\ 200,\ 300,\ 400,\ 500,\ 600)\n\ \ \ \ \ \ \ The\ Duck\ constructor\ has\ one\ parameter\ -\ the\ position\ of\ the\ duck.\n\ \ \ \ \ \ \ the\ position\ of\ the\ i'th\ duck\ should\ be\ 200+(i*100)\n\ -\ Have\ a\ loop\ that\ repeats\ 5\ times\:\n\ \ \ -\ Ask\ the\ user\ for\ the\ number\ of\ a\ duck\ to\ shoot\ (\ 0\ to\ 4)\n\ \ \ -\ IF\ the\ answer\ is\ valid\ and\ that\ element\ of\ the\ array\ contains\ a\ duck,\ THEN\n\ \ \ \ \ \ shoot\ the\ duck\ (call\ the\ shoot\ method\ on\ the\ duck),\ \n\ \ \ \ \ \ remove\ it\ from\ the\ array\ (put\ null\ in\ the\ array\ element)\n\ \ \ -\ shuffle\ all\ the\ remaining\ ducks\ (each\ array\ element\ that\ isn't\ null)\n
+comment5.params=
+comment5.target=void\ countScores()
+comment5.text=\n\ Reads\ and\ counts\ a\ sequence\ of\ scores\ from\ a\ file.\n\ The\ scores\ are\ all\ numbers\ between\ 1\ and\ 10,\ inclusive.\n\ The\ method\ keeps\ a\ count\ for\ each\ score\ in\ an\ array\:\n\ \ count[n]\ has\ the\ count\ of\ the\ number\ of\ n's.\n\ \ When\ it\ reads\ a\ score,\ it\ increments\ that\ count\ for\ that\ score\n\ At\ the\ end,\ it\ prints\ the\ counts\ for\ each\ score.\n
+comment6.params=
+comment6.target=Exercise()
+comment6.text=\n\ Constructor\ to\ set\ up\ an\ interface\ with\ buttons\ to\ call\ all\ the\ methods\n
+comment7.params=button
+comment7.target=void\ buttonPerformed(java.lang.String)
+comment7.text=\n\ Respond\ to\ the\ buttons\n
+comment8.params=
+comment8.target=void\ showFile()
+comment8.text=\n\ Utility\ method\ to\ list\ the\ contents\ of\ a\ file.\n
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

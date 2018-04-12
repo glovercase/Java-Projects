@@ -1,0 +1,6 @@
+5
+50 100 blue
+170 100 green
+240 150 yellow
+450 130 blue
+200 340 green

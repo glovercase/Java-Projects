@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FrogGame()
+comment0.text=\ Construct\ a\ new\ FrogGame\ object\:\n\ -\ set\ up\ the\ GUI\ (the\ buttons)\n\ -\ draw\ the\ lanes\n\ -\ create\ the\ first\ frog\n\ -\ call\ the\ runCars\ method\ to\ make\ the\ cars\ run\ along\ the\ road.\n
+comment1.params=button
+comment1.target=void\ buttonPerformed(java.lang.String)
+comment1.text=\n\ \ Respond\ to\ button\ presses\:\n\ "Hop"\ should\ make\ the\ frog\ hop\ forward,\n\ "Back"\ should\ make\ the\ frog\ hop\ backwards.\n
+comment2.params=
+comment2.target=void\ drawLanes()
+comment2.text=\n\ Draw\ the\ lanes.\n
+comment3.params=
+comment3.target=void\ runCars()
+comment3.text=\n\ Initialise\ variables\ for\ the\ score\ and\ the\ remaining\ lives\n\ Make\ three\ cars,\ and\ make\ them\ run\ along\ their\ lanes\n\ until\ the\ player\ has\ run\ out\ of\ lives.\n\ In\ the\ loop,\n\ \ -\ make\ each\ car\ move,\ \n\ \ -\ If\ the\ frog\ has\ got\ to\ lane\ 4,\ then\n\ \ \ \ \ add\ to\ the\ score,\n\ \ \ \ \ tell\ the\ player\ what\ the\ score\ is.\n\ \ \ \ \ and\ make\ a\ new\ frog\n\ \ -\ check\ each\ car\ to\ see\ if\ it\ is\ hitting\ the\ frog.\n\ \ \ \ (\ call\ the\ hitFrog(..)\ method\ to\ check\ each\ car\ )\n\ \ \ \ If\ so,\ make\ the\ frog\ splat,\ decrease\ the\ number\ of\ lives\ left.\n\ \ -\ If\ the\ player\ still\ has\ any\ lives\ left,\ make\ a\ new\ frog.\n\ \ \ \ and\ make\ a\ new\ frog.\n\ \ -\ then\ sleep\ for\ short\ time.\n
+comment4.params=car
+comment4.target=boolean\ hitFrog(Car)
+comment4.text=\n\ Returns\ true\ if\ the\ car\ is\ hitting\ the\ frog\:\n\ the\ lane\ of\ the\ car\ must\ be\ the\ same\ as\ the\ current\ lane\ of\ the\ frog\n\ and\ the\ x\ position\ of\ the\ car\ must\ be\ such\ that\ it\ is\ hitting\ the\ frog.\n
+comment5.params=arguments
+comment5.target=void\ main(java.lang.String[])
+numComments=6

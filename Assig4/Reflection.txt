@@ -1,0 +1,28 @@
+COMP 102 2011T2,  Assignment 4
+Name:
+ID:
+
+Questions for reflection:
+=========================
+
+1. Though the syntactic structure of a while statement is simple,
+   getting the details right can be tricky. 
+
+   * Which loops did you have difficulty getting right?
+   * Explain where the difficulty was.
+
+2. Give several good test cases for the StockAnalyser program that
+   would help you ensure that your program works correctly 
+
+3. Games that are too easy or too hard aren't fun to play.
+   * What is an appropriate number of guesses to allow the user in the
+     guessing game, and why? 
+
+4. What are the additional concepts about programming and about Java
+   that you have learned this week? 
+   * Copy the concepts you listed in last week's Reflection, fixing up
+     any of the descriptions if you have a better understanding of
+     them now 
+   * Add the new concepts you have acquired this week, along with one
+     sentence descriptions of them. 
+

@@ -1,0 +1,10 @@
+Angel F 1805 ? ?
+Devin M 1810 ? ?
+Jessie F 1839 Angel Devin
+John M 1842 Angel Devin
+Cassie F 1883 ? John
+Kelly F 1910 Cassie ?
+Alice F 1840 Angel Devin
+Alexander M 1843 ? ?
+Addison F 1907 Alice Alexander
+Dominique F 1915 Alice Alexander
